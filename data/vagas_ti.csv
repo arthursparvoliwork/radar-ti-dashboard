@@ -1,0 +1,3001 @@
+cargo,cidade,senioridade,salario_min,salario_max
+Desenvolvimento Backend,São Paulo - SP,Pleno,5012,9309
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5346,9308
+Desenvolvimento Backend,São Paulo - SP,Pleno,5015,8645
+Dados / BI,São Paulo - SP,Júnior,2550,4686
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2650,4462
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10214,16165
+Desenvolvimento Backend,São Paulo - SP,Sênior,9844,15509
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10118,15841
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5498,9494
+Dados / BI,Rio de Janeiro - RJ,Sênior,10133,16040
+Desenvolvimento Backend,São Paulo - SP,Júnior,2558,4715
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2525,4514
+Desenvolvimento Backend,São Paulo - SP,Júnior,2594,4501
+Dados / BI,São Paulo - SP,Sênior,10163,15446
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5083,9023
+Dados / BI,Remoto (Brasil),Pleno,5285,8774
+Desenvolvimento Backend,São Paulo - SP,Sênior,9734,16983
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2554,4787
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2667,4575
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5135,8692
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2649,4539
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2535,4580
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9656,16585
+Dados / BI,São Paulo - SP,Pleno,5197,8940
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2641,4760
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2726,4594
+Desenvolvimento Backend,São Paulo - SP,Júnior,2575,4542
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5368,8819
+Dados / BI,Remoto (Brasil),Pleno,5054,9441
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5101,8706
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10444,16386
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5057,8921
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2514,4443
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2624,4737
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9631,16651
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2723,4630
+Desenvolvimento Backend,São Paulo - SP,Pleno,5373,9256
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10165,16064
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2557,4352
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2556,4323
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2731,4336
+Desenvolvimento Backend,São Paulo - SP,Júnior,2671,4568
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10084,16480
+Desenvolvimento Backend,São Paulo - SP,Sênior,9694,15493
+Dados / BI,Rio de Janeiro - RJ,Pleno,5239,9434
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9600,15424
+Desenvolvimento Backend,São Paulo - SP,Sênior,9754,15692
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5142,9023
+Dados / BI,São Paulo - SP,Pleno,5441,9426
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10356,15330
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9670,16132
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5030,8718
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2700,4721
+Dados / BI,São Paulo - SP,Sênior,10302,16438
+Dados / BI,São Paulo - SP,Júnior,2555,4349
+Dados / BI,São Paulo - SP,Pleno,5029,8601
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9661,15416
+Dados / BI,São Paulo - SP,Júnior,2652,4354
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2727,4611
+Dados / BI,São Paulo - SP,Pleno,5214,9223
+Dados / BI,São Paulo - SP,Sênior,9709,16671
+Desenvolvimento Backend,São Paulo - SP,Pleno,5343,9210
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5037,8559
+Desenvolvimento Backend,São Paulo - SP,Sênior,9575,16401
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10402,15440
+Dados / BI,Rio de Janeiro - RJ,Júnior,2713,4598
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10169,16383
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2669,4373
+Dados / BI,São Paulo - SP,Júnior,2527,4700
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5367,8901
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2625,4448
+Desenvolvimento Backend,São Paulo - SP,Júnior,2608,4744
+Desenvolvimento Backend,São Paulo - SP,Sênior,10152,15836
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5287,8559
+Desenvolvimento Backend,São Paulo - SP,Pleno,5076,9108
+Desenvolvimento Backend,São Paulo - SP,Pleno,5220,8680
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10381,15381
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2526,4501
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5317,9317
+Desenvolvimento Backend,São Paulo - SP,Sênior,10319,16960
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2736,4490
+Desenvolvimento Backend,São Paulo - SP,Pleno,5376,9380
+Desenvolvimento Backend,São Paulo - SP,Pleno,5195,9443
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2735,4555
+Dados / BI,São Paulo - SP,Sênior,9728,15348
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2517,4715
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5431,9099
+Dados / BI,Remoto (Brasil),Sênior,9767,15665
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2652,4542
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5261,8668
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2681,4543
+Dados / BI,São Paulo - SP,Pleno,5368,9309
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5485,9230
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5063,9287
+Dados / BI,São Paulo - SP,Pleno,5167,8962
+Dados / BI,Remoto (Brasil),Júnior,2670,4514
+Dados / BI,São Paulo - SP,Pleno,5154,8965
+Dados / BI,Rio de Janeiro - RJ,Júnior,2610,4722
+Desenvolvimento Backend,São Paulo - SP,Pleno,5226,9241
+Desenvolvimento Backend,São Paulo - SP,Sênior,10315,16807
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5324,9184
+Desenvolvimento Backend,São Paulo - SP,Pleno,5344,8867
+Dados / BI,Remoto (Brasil),Júnior,2562,4563
+Dados / BI,Rio de Janeiro - RJ,Pleno,5453,9194
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5204,8799
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10381,16877
+Dados / BI,São Paulo - SP,Júnior,2705,4676
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2717,4382
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5286,9159
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5417,9286
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9956,15625
+Dados / BI,Remoto (Brasil),Júnior,2563,4750
+Desenvolvimento Backend,São Paulo - SP,Pleno,5320,8794
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2569,4491
+Dados / BI,Rio de Janeiro - RJ,Júnior,2559,4516
+Dados / BI,São Paulo - SP,Júnior,2604,4489
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2607,4519
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5438,9451
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2590,4472
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9929,16402
+Desenvolvimento Backend,São Paulo - SP,Pleno,5112,9049
+Dados / BI,São Paulo - SP,Júnior,2586,4662
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2619,4790
+Dados / BI,São Paulo - SP,Júnior,2600,4623
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5069,9437
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5108,9015
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5385,9401
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5383,9102
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2517,4719
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2563,4422
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2621,4662
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5131,9335
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10235,15534
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2648,4333
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9884,16112
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5425,9192
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2675,4627
+Dados / BI,Rio de Janeiro - RJ,Pleno,5021,8905
+Desenvolvimento Backend,São Paulo - SP,Júnior,2665,4494
+Dados / BI,Remoto (Brasil),Pleno,5221,8920
+Dados / BI,Remoto (Brasil),Pleno,5222,8730
+Dados / BI,São Paulo - SP,Júnior,2706,4790
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5374,9156
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9588,15871
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5312,9234
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9686,16298
+Dados / BI,São Paulo - SP,Júnior,2725,4625
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2742,4417
+Dados / BI,Rio de Janeiro - RJ,Pleno,5388,8796
+Desenvolvimento Backend,São Paulo - SP,Pleno,5405,8567
+Dados / BI,São Paulo - SP,Pleno,5156,9229
+Dados / BI,São Paulo - SP,Pleno,5217,9313
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5156,8807
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2690,4594
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2689,4567
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5305,8839
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2592,4411
+Dados / BI,Rio de Janeiro - RJ,Júnior,2511,4347
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2722,4705
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5240,9040
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2740,4761
+Dados / BI,São Paulo - SP,Pleno,5037,9140
+Desenvolvimento Backend,São Paulo - SP,Júnior,2644,4475
+Dados / BI,Rio de Janeiro - RJ,Pleno,5213,9170
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9889,16222
+Dados / BI,São Paulo - SP,Pleno,5219,8862
+Desenvolvimento Backend,São Paulo - SP,Sênior,9601,16862
+Desenvolvimento Backend,São Paulo - SP,Pleno,5080,8795
+Dados / BI,São Paulo - SP,Júnior,2615,4672
+Dados / BI,São Paulo - SP,Júnior,2680,4464
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5473,8820
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5478,8752
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5465,8822
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2578,4624
+Dados / BI,Rio de Janeiro - RJ,Júnior,2531,4559
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10012,16405
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2610,4696
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2746,4665
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10283,16676
+Dados / BI,São Paulo - SP,Pleno,5089,9031
+Dados / BI,São Paulo - SP,Júnior,2649,4543
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2589,4529
+Dados / BI,São Paulo - SP,Sênior,9837,16143
+Dados / BI,São Paulo - SP,Sênior,10333,16857
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2582,4379
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5000,9223
+Dados / BI,São Paulo - SP,Júnior,2632,4505
+Desenvolvimento Backend,São Paulo - SP,Pleno,5026,8758
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2725,4677
+Dados / BI,São Paulo - SP,Pleno,5409,8795
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2604,4367
+Dados / BI,São Paulo - SP,Júnior,2742,4380
+Dados / BI,São Paulo - SP,Sênior,9798,16342
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5241,8799
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2653,4580
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2697,4724
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9773,16980
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10093,16651
+Dados / BI,São Paulo - SP,Pleno,5176,8890
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5164,9440
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5119,9426
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5361,9485
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5420,9217
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2628,4622
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9602,16377
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2722,4655
+Dados / BI,São Paulo - SP,Sênior,9771,15993
+Dados / BI,São Paulo - SP,Júnior,2584,4756
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10141,16771
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5316,8620
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2558,4702
+Desenvolvimento Backend,São Paulo - SP,Pleno,5360,9443
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2507,4343
+Desenvolvimento Backend,São Paulo - SP,Júnior,2610,4394
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5092,8724
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5349,8796
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2663,4450
+Dados / BI,São Paulo - SP,Sênior,9976,15889
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5176,9151
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5233,9415
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9609,15785
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2679,4471
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5004,9129
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10432,16541
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10294,16936
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2548,4637
+Dados / BI,Remoto (Brasil),Sênior,10197,15580
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5158,9357
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5046,9481
+Dados / BI,Remoto (Brasil),Júnior,2533,4722
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5467,8829
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9993,16951
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9979,15454
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10241,16681
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9874,15484
+Dados / BI,Rio de Janeiro - RJ,Pleno,5232,8927
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5421,9203
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2506,4637
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9726,16626
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9809,16629
+Desenvolvimento Backend,São Paulo - SP,Sênior,9811,16308
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5198,9014
+Dados / BI,Rio de Janeiro - RJ,Pleno,5276,8979
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10170,15502
+Dados / BI,São Paulo - SP,Sênior,9786,15367
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5120,9425
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2730,4650
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2531,4754
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2663,4625
+Dados / BI,São Paulo - SP,Júnior,2532,4722
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5106,9150
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2537,4723
+Dados / BI,Remoto (Brasil),Sênior,9648,15566
+Desenvolvimento Backend,São Paulo - SP,Júnior,2721,4333
+Desenvolvimento Backend,São Paulo - SP,Sênior,10102,15963
+Desenvolvimento Backend,São Paulo - SP,Júnior,2607,4589
+Dados / BI,São Paulo - SP,Pleno,5185,9075
+Dados / BI,Remoto (Brasil),Júnior,2657,4342
+Dados / BI,São Paulo - SP,Pleno,5154,9019
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10367,16122
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5227,8625
+Dados / BI,Rio de Janeiro - RJ,Júnior,2532,4460
+Dados / BI,São Paulo - SP,Pleno,5195,9161
+Dados / BI,Remoto (Brasil),Pleno,5050,9362
+Dados / BI,São Paulo - SP,Pleno,5393,9114
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5116,8973
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5048,8870
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5078,9253
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9595,16184
+Dados / BI,Rio de Janeiro - RJ,Sênior,10069,15422
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2531,4530
+Dados / BI,Remoto (Brasil),Pleno,5444,9487
+Dados / BI,São Paulo - SP,Pleno,5180,8656
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5114,9417
+Dados / BI,Remoto (Brasil),Júnior,2695,4462
+Dados / BI,Rio de Janeiro - RJ,Sênior,10285,16976
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5311,9223
+Desenvolvimento Backend,São Paulo - SP,Júnior,2679,4710
+Dados / BI,São Paulo - SP,Júnior,2722,4393
+Desenvolvimento Backend,São Paulo - SP,Júnior,2662,4335
+Desenvolvimento Backend,São Paulo - SP,Pleno,5232,8899
+Dados / BI,Remoto (Brasil),Júnior,2741,4610
+Desenvolvimento Backend,São Paulo - SP,Júnior,2693,4636
+Dados / BI,São Paulo - SP,Pleno,5217,9047
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2631,4378
+Dados / BI,São Paulo - SP,Pleno,5303,9048
+Desenvolvimento Backend,São Paulo - SP,Júnior,2653,4348
+Desenvolvimento Backend,São Paulo - SP,Júnior,2535,4711
+Desenvolvimento Backend,São Paulo - SP,Júnior,2691,4540
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5256,9122
+Desenvolvimento Backend,São Paulo - SP,Júnior,2720,4699
+Dados / BI,Rio de Janeiro - RJ,Sênior,10382,15941
+Desenvolvimento Backend,São Paulo - SP,Pleno,5213,8846
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2705,4636
+Desenvolvimento Backend,São Paulo - SP,Júnior,2611,4752
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5040,8955
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2699,4406
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5099,9477
+Desenvolvimento Backend,São Paulo - SP,Sênior,10160,16969
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2544,4628
+Dados / BI,São Paulo - SP,Júnior,2743,4715
+Dados / BI,Remoto (Brasil),Pleno,5296,9009
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5319,8880
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2517,4560
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2514,4500
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5029,8927
+Dados / BI,São Paulo - SP,Sênior,10375,15484
+Dados / BI,São Paulo - SP,Pleno,5283,9360
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10085,16634
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5490,8613
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10231,15472
+Dados / BI,Rio de Janeiro - RJ,Júnior,2612,4544
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2734,4464
+Dados / BI,São Paulo - SP,Pleno,5026,9358
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2642,4667
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10428,16534
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5072,9488
+Dados / BI,Remoto (Brasil),Pleno,5200,8682
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2596,4649
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5424,9306
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2671,4536
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2743,4429
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2535,4399
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2697,4596
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2586,4768
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5083,8735
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9669,16776
+Dados / BI,Rio de Janeiro - RJ,Pleno,5121,9004
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9739,16393
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10425,15697
+Desenvolvimento Backend,São Paulo - SP,Sênior,9972,16875
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5494,8715
+Dados / BI,Remoto (Brasil),Júnior,2564,4346
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5052,9278
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2695,4402
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2611,4366
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5178,8577
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5197,8633
+Dados / BI,Remoto (Brasil),Sênior,10359,16763
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2573,4789
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2680,4560
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2565,4430
+Desenvolvimento Backend,São Paulo - SP,Pleno,5270,8983
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2512,4442
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5056,9406
+Desenvolvimento Backend,São Paulo - SP,Júnior,2631,4614
+Desenvolvimento Backend,São Paulo - SP,Pleno,5314,8911
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5043,9086
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5259,9355
+Dados / BI,Remoto (Brasil),Pleno,5240,8594
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2504,4502
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5321,8656
+Dados / BI,Remoto (Brasil),Júnior,2511,4500
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2699,4670
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5415,8688
+Desenvolvimento Backend,São Paulo - SP,Pleno,5150,8756
+Dados / BI,Remoto (Brasil),Júnior,2738,4478
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5129,8587
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2699,4344
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2594,4543
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9895,15994
+Dados / BI,Remoto (Brasil),Pleno,5473,9366
+Dados / BI,Remoto (Brasil),Pleno,5040,8990
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5164,8655
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2654,4687
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2510,4692
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9781,16609
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2663,4527
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5487,8581
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9535,15558
+Desenvolvimento Backend,São Paulo - SP,Júnior,2598,4610
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5189,8930
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2593,4523
+Desenvolvimento Backend,São Paulo - SP,Sênior,9526,16806
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9620,15836
+Dados / BI,Remoto (Brasil),Júnior,2656,4466
+Desenvolvimento Backend,São Paulo - SP,Júnior,2534,4756
+Dados / BI,Remoto (Brasil),Pleno,5044,9379
+Desenvolvimento Backend,São Paulo - SP,Júnior,2588,4683
+Dados / BI,Remoto (Brasil),Sênior,10371,15622
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5406,8920
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2535,4441
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5188,9028
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5044,8617
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5269,8970
+Dados / BI,São Paulo - SP,Júnior,2748,4482
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5176,8681
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5093,9336
+Dados / BI,São Paulo - SP,Sênior,9556,15554
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2739,4683
+Desenvolvimento Backend,São Paulo - SP,Pleno,5145,9416
+Dados / BI,Rio de Janeiro - RJ,Sênior,9781,15556
+Dados / BI,Rio de Janeiro - RJ,Júnior,2664,4406
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2659,4688
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9542,16990
+Desenvolvimento Backend,São Paulo - SP,Sênior,10289,16481
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5316,9204
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5328,8859
+Desenvolvimento Backend,São Paulo - SP,Pleno,5152,9014
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5247,9025
+Dados / BI,Remoto (Brasil),Júnior,2683,4483
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9633,16857
+Desenvolvimento Backend,São Paulo - SP,Júnior,2619,4382
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2574,4516
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10423,15627
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5097,9331
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5450,8865
+Desenvolvimento Backend,São Paulo - SP,Pleno,5234,8796
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2626,4625
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5274,8558
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10244,16049
+Desenvolvimento Backend,São Paulo - SP,Pleno,5291,9125
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2629,4550
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10196,16551
+Dados / BI,São Paulo - SP,Pleno,5406,8897
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2654,4580
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2682,4490
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2728,4583
+Dados / BI,São Paulo - SP,Júnior,2600,4635
+Dados / BI,Rio de Janeiro - RJ,Júnior,2712,4580
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2708,4328
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10097,15930
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5013,9161
+Dados / BI,Rio de Janeiro - RJ,Sênior,10294,16484
+Dados / BI,Rio de Janeiro - RJ,Pleno,5087,9086
+Dados / BI,São Paulo - SP,Sênior,9651,16982
+Desenvolvimento Backend,São Paulo - SP,Sênior,9612,15690
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2676,4424
+Dados / BI,Rio de Janeiro - RJ,Sênior,10393,16806
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5287,8882
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5489,8727
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5346,9340
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9770,16549
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2576,4435
+Dados / BI,São Paulo - SP,Sênior,10221,15724
+Dados / BI,São Paulo - SP,Pleno,5286,9364
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5278,8938
+Desenvolvimento Backend,São Paulo - SP,Júnior,2697,4731
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9580,16009
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5109,8756
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5139,8690
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2512,4662
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2525,4531
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5070,8555
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2667,4798
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5387,8844
+Dados / BI,São Paulo - SP,Sênior,9591,16635
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5479,8588
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9680,15374
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5479,9316
+Dados / BI,São Paulo - SP,Sênior,9509,15911
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9791,16230
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5480,8687
+Desenvolvimento Backend,São Paulo - SP,Júnior,2528,4489
+Dados / BI,Remoto (Brasil),Júnior,2547,4327
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5387,8747
+Dados / BI,São Paulo - SP,Sênior,10346,16175
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5094,8693
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2598,4440
+Dados / BI,São Paulo - SP,Júnior,2649,4690
+Dados / BI,São Paulo - SP,Júnior,2560,4351
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2675,4577
+Dados / BI,Remoto (Brasil),Sênior,10206,15540
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2556,4432
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5310,8932
+Dados / BI,São Paulo - SP,Pleno,5275,9371
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2693,4625
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5360,8920
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2640,4782
+Dados / BI,São Paulo - SP,Júnior,2583,4757
+Desenvolvimento Backend,São Paulo - SP,Júnior,2649,4570
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9964,15570
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2618,4664
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5418,8553
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2588,4678
+Desenvolvimento Backend,São Paulo - SP,Sênior,9570,16266
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10284,16613
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5456,8941
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5041,9249
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2720,4498
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5065,9295
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5500,8855
+Desenvolvimento Backend,São Paulo - SP,Pleno,5194,9393
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2548,4799
+Dados / BI,Remoto (Brasil),Júnior,2669,4534
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9746,15722
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5344,9270
+Dados / BI,Rio de Janeiro - RJ,Júnior,2612,4439
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9643,16331
+Dados / BI,Remoto (Brasil),Sênior,10089,15953
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9742,15918
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5211,8857
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5376,9483
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5024,8902
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9826,16726
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5386,9100
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2681,4393
+Dados / BI,São Paulo - SP,Pleno,5495,8976
+Dados / BI,Remoto (Brasil),Júnior,2552,4489
+Dados / BI,São Paulo - SP,Sênior,9594,16396
+Dados / BI,Remoto (Brasil),Júnior,2672,4629
+Dados / BI,Rio de Janeiro - RJ,Júnior,2694,4620
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5445,9478
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2739,4417
+Dados / BI,Rio de Janeiro - RJ,Sênior,9990,15796
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5122,9115
+Desenvolvimento Backend,São Paulo - SP,Pleno,5332,8917
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9977,15501
+Desenvolvimento Backend,São Paulo - SP,Pleno,5163,9486
+Dados / BI,São Paulo - SP,Júnior,2721,4433
+Dados / BI,São Paulo - SP,Pleno,5299,9143
+Dados / BI,São Paulo - SP,Júnior,2558,4514
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5483,9251
+Dados / BI,São Paulo - SP,Pleno,5370,9207
+Desenvolvimento Backend,São Paulo - SP,Pleno,5180,8723
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2727,4597
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5429,9417
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2501,4531
+Desenvolvimento Backend,São Paulo - SP,Júnior,2538,4324
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2663,4661
+Dados / BI,São Paulo - SP,Pleno,5008,8556
+Dados / BI,São Paulo - SP,Júnior,2684,4460
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5357,9240
+Dados / BI,São Paulo - SP,Júnior,2735,4369
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5129,9384
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2745,4527
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5153,9250
+Desenvolvimento Backend,São Paulo - SP,Sênior,10165,16855
+Dados / BI,Rio de Janeiro - RJ,Pleno,5243,8607
+Dados / BI,São Paulo - SP,Júnior,2716,4542
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9597,16381
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10208,16460
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2736,4463
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2737,4755
+Dados / BI,São Paulo - SP,Pleno,5385,9390
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2541,4608
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5459,9103
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2676,4690
+Desenvolvimento Backend,São Paulo - SP,Júnior,2525,4543
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5314,9159
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2569,4721
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2740,4512
+Dados / BI,Remoto (Brasil),Pleno,5043,9340
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5042,8824
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5378,8948
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2578,4547
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2547,4540
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5013,8641
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5166,9434
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5043,9292
+Desenvolvimento Backend,São Paulo - SP,Sênior,10085,16367
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2577,4457
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5215,8856
+Dados / BI,Rio de Janeiro - RJ,Júnior,2563,4689
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2527,4389
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2658,4514
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2708,4741
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2582,4628
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2746,4523
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5251,9139
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2701,4521
+Dados / BI,São Paulo - SP,Júnior,2639,4412
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9972,16750
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9570,16977
+Desenvolvimento Backend,São Paulo - SP,Pleno,5071,9198
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2608,4724
+Dados / BI,Remoto (Brasil),Pleno,5298,8960
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9928,16413
+Dados / BI,Remoto (Brasil),Pleno,5415,9099
+Dados / BI,São Paulo - SP,Júnior,2563,4656
+Dados / BI,São Paulo - SP,Pleno,5288,9210
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5494,9365
+Dados / BI,Rio de Janeiro - RJ,Júnior,2630,4702
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5228,8933
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5256,8704
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2606,4791
+Desenvolvimento Backend,São Paulo - SP,Sênior,9645,16013
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2623,4498
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5163,8618
+Dados / BI,Rio de Janeiro - RJ,Júnior,2717,4495
+Dados / BI,São Paulo - SP,Júnior,2689,4444
+Desenvolvimento Backend,São Paulo - SP,Júnior,2609,4556
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2663,4656
+Dados / BI,São Paulo - SP,Pleno,5101,9010
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5105,8835
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2526,4729
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2617,4378
+Dados / BI,Rio de Janeiro - RJ,Pleno,5327,8870
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5178,8910
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10222,16939
+Desenvolvimento Backend,São Paulo - SP,Júnior,2534,4480
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2677,4392
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2598,4536
+Dados / BI,São Paulo - SP,Pleno,5330,8727
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2580,4751
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2502,4568
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10017,16637
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5430,9004
+Desenvolvimento Backend,São Paulo - SP,Júnior,2694,4432
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5086,9349
+Desenvolvimento Backend,São Paulo - SP,Sênior,10062,16346
+Dados / BI,Rio de Janeiro - RJ,Sênior,10343,16051
+Desenvolvimento Backend,São Paulo - SP,Pleno,5225,9109
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5334,9319
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2567,4498
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9620,16888
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5352,8909
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5315,8692
+Dados / BI,Rio de Janeiro - RJ,Sênior,10083,16018
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2750,4680
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10026,16691
+Desenvolvimento Backend,São Paulo - SP,Pleno,5210,9490
+Desenvolvimento Backend,São Paulo - SP,Pleno,5359,9436
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2563,4709
+Dados / BI,São Paulo - SP,Júnior,2661,4457
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2703,4770
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5355,9448
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2500,4764
+Dados / BI,São Paulo - SP,Pleno,5234,9200
+Desenvolvimento Backend,São Paulo - SP,Júnior,2636,4523
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2568,4485
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5289,9422
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5024,8597
+Desenvolvimento Backend,São Paulo - SP,Pleno,5063,9428
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9938,15714
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9809,15625
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2592,4448
+Dados / BI,Rio de Janeiro - RJ,Pleno,5026,8955
+Desenvolvimento Backend,São Paulo - SP,Pleno,5219,9221
+Dados / BI,São Paulo - SP,Júnior,2519,4387
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5004,9262
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10210,15570
+Desenvolvimento Backend,São Paulo - SP,Júnior,2706,4372
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2597,4716
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5346,8696
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5084,9000
+Dados / BI,São Paulo - SP,Pleno,5470,8971
+Desenvolvimento Backend,São Paulo - SP,Júnior,2729,4371
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5179,8989
+Dados / BI,Rio de Janeiro - RJ,Júnior,2521,4447
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5398,9257
+Dados / BI,São Paulo - SP,Sênior,9710,16360
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5330,8605
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2598,4377
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2727,4326
+Dados / BI,São Paulo - SP,Júnior,2720,4749
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5390,9032
+Desenvolvimento Backend,São Paulo - SP,Júnior,2517,4327
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2702,4523
+Dados / BI,São Paulo - SP,Pleno,5212,8983
+Desenvolvimento Backend,São Paulo - SP,Pleno,5315,8706
+Desenvolvimento Backend,São Paulo - SP,Pleno,5104,9377
+Dados / BI,Rio de Janeiro - RJ,Pleno,5390,9404
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2611,4693
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2736,4542
+Dados / BI,São Paulo - SP,Júnior,2670,4699
+Desenvolvimento Backend,São Paulo - SP,Júnior,2535,4679
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2632,4720
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5383,9349
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2730,4335
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5134,9279
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5261,8918
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2540,4450
+Dados / BI,São Paulo - SP,Pleno,5059,8783
+Desenvolvimento Backend,São Paulo - SP,Sênior,9512,15800
+Dados / BI,Remoto (Brasil),Sênior,9683,15372
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5214,8779
+Desenvolvimento Backend,São Paulo - SP,Pleno,5138,9395
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5461,8603
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9910,15441
+Desenvolvimento Backend,São Paulo - SP,Sênior,9818,15970
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2574,4608
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2594,4622
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10250,16419
+Desenvolvimento Backend,São Paulo - SP,Júnior,2604,4332
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10398,15319
+Dados / BI,São Paulo - SP,Pleno,5434,9305
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5121,8979
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10228,15873
+Dados / BI,São Paulo - SP,Sênior,10032,16145
+Desenvolvimento Backend,São Paulo - SP,Sênior,9586,16489
+Dados / BI,São Paulo - SP,Sênior,9576,16512
+Desenvolvimento Backend,São Paulo - SP,Sênior,9742,15897
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10217,16806
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2741,4423
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2527,4404
+Desenvolvimento Backend,São Paulo - SP,Júnior,2591,4714
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2530,4366
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10213,16535
+Desenvolvimento Backend,São Paulo - SP,Júnior,2523,4684
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5346,8856
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2603,4757
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2618,4372
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2712,4719
+Dados / BI,Rio de Janeiro - RJ,Sênior,9881,16705
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5132,9489
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2731,4650
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10349,16956
+Dados / BI,Remoto (Brasil),Pleno,5086,9496
+Dados / BI,São Paulo - SP,Pleno,5015,8941
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2547,4460
+Desenvolvimento Backend,São Paulo - SP,Júnior,2658,4635
+Desenvolvimento Backend,São Paulo - SP,Pleno,5281,9040
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2551,4649
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5410,9106
+Dados / BI,São Paulo - SP,Sênior,9867,16282
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10014,15958
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2556,4335
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2620,4591
+Desenvolvimento Backend,São Paulo - SP,Júnior,2540,4371
+Dados / BI,Remoto (Brasil),Pleno,5405,9489
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10089,16933
+Desenvolvimento Backend,São Paulo - SP,Sênior,9677,15660
+Dados / BI,Rio de Janeiro - RJ,Pleno,5183,9485
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2645,4608
+Dados / BI,São Paulo - SP,Sênior,10329,16308
+Dados / BI,São Paulo - SP,Júnior,2514,4439
+Dados / BI,Remoto (Brasil),Pleno,5169,9489
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2545,4790
+Dados / BI,São Paulo - SP,Júnior,2537,4620
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2634,4760
+Dados / BI,São Paulo - SP,Pleno,5339,8955
+Dados / BI,São Paulo - SP,Júnior,2749,4400
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5249,9214
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5455,9178
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5089,8937
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2686,4320
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5394,9131
+Dados / BI,São Paulo - SP,Sênior,10126,15752
+Desenvolvimento Backend,São Paulo - SP,Pleno,5169,9313
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2662,4773
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5373,9457
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2677,4354
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5024,8945
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2605,4572
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5424,9040
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5115,8716
+Desenvolvimento Backend,São Paulo - SP,Júnior,2505,4483
+Desenvolvimento Backend,São Paulo - SP,Júnior,2727,4512
+Dados / BI,Rio de Janeiro - RJ,Sênior,9595,15992
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5015,8991
+Desenvolvimento Backend,São Paulo - SP,Sênior,9660,15409
+Dados / BI,Rio de Janeiro - RJ,Júnior,2678,4603
+Desenvolvimento Backend,São Paulo - SP,Júnior,2572,4472
+Desenvolvimento Backend,São Paulo - SP,Pleno,5430,9052
+Dados / BI,Rio de Janeiro - RJ,Pleno,5150,9393
+Desenvolvimento Backend,São Paulo - SP,Júnior,2506,4425
+Desenvolvimento Backend,São Paulo - SP,Júnior,2716,4379
+Desenvolvimento Backend,São Paulo - SP,Pleno,5338,8821
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2726,4515
+Desenvolvimento Backend,São Paulo - SP,Júnior,2619,4454
+Dados / BI,São Paulo - SP,Júnior,2692,4676
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2638,4531
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5430,8946
+Dados / BI,São Paulo - SP,Pleno,5443,9036
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2601,4782
+Dados / BI,Remoto (Brasil),Pleno,5264,9369
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2743,4707
+Desenvolvimento Backend,São Paulo - SP,Júnior,2554,4733
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2674,4542
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2652,4452
+Dados / BI,São Paulo - SP,Sênior,9589,16094
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10032,16238
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5300,9085
+Dados / BI,Remoto (Brasil),Júnior,2645,4621
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2527,4608
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10401,16004
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5292,9173
+Dados / BI,São Paulo - SP,Pleno,5316,9173
+Dados / BI,São Paulo - SP,Pleno,5450,8889
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5137,9468
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9818,15874
+Desenvolvimento Backend,São Paulo - SP,Pleno,5497,9439
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5396,9395
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5045,8742
+Dados / BI,São Paulo - SP,Pleno,5248,9327
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2702,4401
+Dados / BI,Rio de Janeiro - RJ,Pleno,5399,9421
+Desenvolvimento Backend,São Paulo - SP,Júnior,2724,4746
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2512,4790
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2618,4578
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5123,8931
+Dados / BI,São Paulo - SP,Sênior,9985,16501
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9764,16833
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2512,4403
+Desenvolvimento Backend,São Paulo - SP,Júnior,2556,4651
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5262,8570
+Desenvolvimento Backend,São Paulo - SP,Pleno,5242,9483
+Dados / BI,Remoto (Brasil),Sênior,9729,15816
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5363,9208
+Desenvolvimento Backend,São Paulo - SP,Sênior,9970,15816
+Dados / BI,São Paulo - SP,Pleno,5319,8956
+Dados / BI,Rio de Janeiro - RJ,Sênior,10363,16066
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2675,4375
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2583,4761
+Desenvolvimento Backend,São Paulo - SP,Sênior,10167,15911
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2514,4732
+Desenvolvimento Backend,São Paulo - SP,Pleno,5163,9247
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5151,8815
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5298,9275
+Dados / BI,Rio de Janeiro - RJ,Júnior,2682,4433
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5481,9237
+Dados / BI,São Paulo - SP,Júnior,2668,4768
+Dados / BI,Rio de Janeiro - RJ,Pleno,5379,8814
+Dados / BI,São Paulo - SP,Sênior,10196,15987
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2723,4477
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5299,8851
+Dados / BI,Rio de Janeiro - RJ,Júnior,2662,4618
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5099,9062
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5211,8605
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9850,16138
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9646,15947
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2585,4643
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2615,4460
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5081,9051
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2611,4644
+Dados / BI,Rio de Janeiro - RJ,Pleno,5002,8588
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10413,15959
+Dados / BI,São Paulo - SP,Júnior,2501,4640
+Desenvolvimento Backend,São Paulo - SP,Sênior,9819,15564
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2516,4741
+Dados / BI,São Paulo - SP,Pleno,5266,9160
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5068,8900
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5084,9478
+Desenvolvimento Backend,São Paulo - SP,Júnior,2686,4387
+Dados / BI,Remoto (Brasil),Pleno,5063,8925
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5327,8811
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5024,9227
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2529,4533
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2679,4398
+Desenvolvimento Backend,São Paulo - SP,Júnior,2607,4658
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5358,8690
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5316,8670
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5311,8754
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9866,16740
+Dados / BI,São Paulo - SP,Pleno,5466,8762
+Desenvolvimento Backend,São Paulo - SP,Júnior,2503,4663
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5252,8702
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2685,4371
+Desenvolvimento Backend,São Paulo - SP,Pleno,5500,8853
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10395,15380
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5218,9306
+Dados / BI,São Paulo - SP,Sênior,9509,15583
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2612,4638
+Desenvolvimento Backend,São Paulo - SP,Pleno,5175,8737
+Dados / BI,São Paulo - SP,Pleno,5427,8944
+Desenvolvimento Backend,São Paulo - SP,Pleno,5453,9366
+Desenvolvimento Backend,São Paulo - SP,Pleno,5482,9414
+Dados / BI,São Paulo - SP,Pleno,5410,9132
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5183,9176
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10413,15567
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9951,15394
+Dados / BI,Rio de Janeiro - RJ,Júnior,2722,4667
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5114,9235
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5316,8647
+Dados / BI,São Paulo - SP,Pleno,5339,9242
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10413,16555
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2717,4560
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2625,4484
+Dados / BI,São Paulo - SP,Júnior,2557,4601
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2617,4547
+Desenvolvimento Backend,São Paulo - SP,Sênior,9957,15947
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5052,8963
+Dados / BI,Rio de Janeiro - RJ,Júnior,2523,4725
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2630,4607
+Desenvolvimento Backend,São Paulo - SP,Sênior,9872,16990
+Dados / BI,São Paulo - SP,Pleno,5286,9335
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5366,9013
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2587,4501
+Dados / BI,São Paulo - SP,Júnior,2633,4511
+Dados / BI,Rio de Janeiro - RJ,Júnior,2535,4740
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2656,4420
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5234,9394
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2606,4343
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5395,9463
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9637,16321
+Dados / BI,Remoto (Brasil),Pleno,5221,9408
+Dados / BI,São Paulo - SP,Sênior,10432,15662
+Dados / BI,Rio de Janeiro - RJ,Sênior,9606,16093
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2725,4516
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5127,8830
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2706,4388
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10024,15912
+Dados / BI,São Paulo - SP,Júnior,2688,4798
+Dados / BI,Remoto (Brasil),Júnior,2682,4468
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2681,4652
+Dados / BI,Remoto (Brasil),Pleno,5326,8880
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5298,9134
+Dados / BI,Remoto (Brasil),Pleno,5457,9411
+Desenvolvimento Backend,São Paulo - SP,Pleno,5006,9085
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2514,4422
+Desenvolvimento Backend,São Paulo - SP,Sênior,10199,15813
+Dados / BI,São Paulo - SP,Sênior,9708,16843
+Dados / BI,Rio de Janeiro - RJ,Pleno,5315,9438
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2665,4607
+Dados / BI,São Paulo - SP,Sênior,10212,15889
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5213,9357
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5006,9311
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10391,16207
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5331,8926
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5397,9292
+Desenvolvimento Backend,São Paulo - SP,Júnior,2674,4358
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5193,8591
+Desenvolvimento Backend,São Paulo - SP,Júnior,2649,4753
+Desenvolvimento Backend,São Paulo - SP,Pleno,5079,8590
+Dados / BI,Rio de Janeiro - RJ,Júnior,2738,4640
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5293,9113
+Dados / BI,Remoto (Brasil),Júnior,2556,4414
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2639,4594
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10179,15979
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10133,16386
+Desenvolvimento Backend,São Paulo - SP,Pleno,5332,8559
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2664,4634
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2726,4484
+Dados / BI,São Paulo - SP,Júnior,2565,4596
+Dados / BI,São Paulo - SP,Pleno,5394,8933
+Dados / BI,São Paulo - SP,Pleno,5151,9469
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2524,4405
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5320,8617
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2675,4537
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10399,16818
+Desenvolvimento Backend,São Paulo - SP,Sênior,10264,16705
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2522,4357
+Desenvolvimento Backend,São Paulo - SP,Pleno,5294,9391
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5322,8964
+Dados / BI,Rio de Janeiro - RJ,Pleno,5273,8556
+Dados / BI,São Paulo - SP,Pleno,5299,8596
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9608,15893
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2695,4794
+Dados / BI,São Paulo - SP,Pleno,5242,8710
+Dados / BI,Remoto (Brasil),Pleno,5408,9419
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2673,4774
+Dados / BI,São Paulo - SP,Pleno,5191,8561
+Dados / BI,São Paulo - SP,Júnior,2501,4613
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9812,15730
+Dados / BI,São Paulo - SP,Júnior,2605,4783
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2556,4635
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2704,4610
+Dados / BI,São Paulo - SP,Sênior,10062,16244
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5128,8650
+Dados / BI,São Paulo - SP,Sênior,9865,15562
+Desenvolvimento Backend,São Paulo - SP,Júnior,2517,4780
+Dados / BI,São Paulo - SP,Júnior,2668,4476
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5413,8873
+Dados / BI,Rio de Janeiro - RJ,Júnior,2701,4433
+Dados / BI,São Paulo - SP,Júnior,2592,4388
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5228,8917
+Desenvolvimento Backend,São Paulo - SP,Júnior,2665,4630
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10412,16403
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5372,8627
+Dados / BI,Remoto (Brasil),Pleno,5416,9145
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2509,4602
+Desenvolvimento Backend,São Paulo - SP,Pleno,5334,9343
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10103,16801
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5046,8956
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2746,4732
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5071,9006
+Dados / BI,São Paulo - SP,Pleno,5446,8699
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2556,4709
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2510,4662
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2620,4789
+Dados / BI,São Paulo - SP,Sênior,9831,15511
+Desenvolvimento Backend,São Paulo - SP,Sênior,10354,16819
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2667,4513
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10029,15815
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5180,9386
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5309,8556
+Dados / BI,São Paulo - SP,Júnior,2519,4583
+Dados / BI,São Paulo - SP,Júnior,2592,4628
+Dados / BI,São Paulo - SP,Júnior,2707,4489
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5107,9154
+Dados / BI,São Paulo - SP,Júnior,2511,4385
+Dados / BI,São Paulo - SP,Pleno,5020,9462
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2546,4584
+Dados / BI,Rio de Janeiro - RJ,Pleno,5009,9449
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2521,4430
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9674,15749
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10340,16871
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2685,4671
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5117,8937
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2720,4785
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2524,4410
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2700,4592
+Dados / BI,Remoto (Brasil),Pleno,5066,9473
+Dados / BI,São Paulo - SP,Sênior,10293,16689
+Dados / BI,São Paulo - SP,Pleno,5022,9264
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10308,16874
+Dados / BI,São Paulo - SP,Pleno,5389,9407
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2622,4712
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2724,4598
+Dados / BI,São Paulo - SP,Pleno,5404,8557
+Dados / BI,São Paulo - SP,Júnior,2667,4425
+Dados / BI,São Paulo - SP,Júnior,2539,4538
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9933,16456
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5386,8758
+Dados / BI,São Paulo - SP,Pleno,5189,9122
+Dados / BI,Rio de Janeiro - RJ,Júnior,2588,4716
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10175,15543
+Desenvolvimento Backend,São Paulo - SP,Pleno,5082,8652
+Dados / BI,Rio de Janeiro - RJ,Júnior,2640,4634
+Desenvolvimento Backend,São Paulo - SP,Júnior,2746,4645
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2737,4627
+Desenvolvimento Backend,São Paulo - SP,Júnior,2520,4631
+Dados / BI,Rio de Janeiro - RJ,Sênior,10128,16643
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5484,9342
+Dados / BI,Remoto (Brasil),Pleno,5103,9420
+Dados / BI,São Paulo - SP,Júnior,2508,4721
+Desenvolvimento Backend,São Paulo - SP,Júnior,2543,4665
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2540,4364
+Dados / BI,São Paulo - SP,Júnior,2601,4527
+Desenvolvimento Backend,São Paulo - SP,Pleno,5035,9491
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10436,16493
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2655,4419
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2544,4528
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5174,8669
+Dados / BI,Rio de Janeiro - RJ,Sênior,10332,16924
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10076,16290
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9969,16695
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2529,4452
+Desenvolvimento Backend,São Paulo - SP,Sênior,10193,16736
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10028,16397
+Dados / BI,Remoto (Brasil),Júnior,2523,4524
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2738,4411
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9775,15674
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10010,16809
+Desenvolvimento Backend,São Paulo - SP,Sênior,9711,15769
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5079,9347
+Dados / BI,Remoto (Brasil),Pleno,5339,9054
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5021,9418
+Dados / BI,São Paulo - SP,Pleno,5451,9468
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2695,4788
+Dados / BI,São Paulo - SP,Pleno,5065,8605
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9533,16329
+Dados / BI,São Paulo - SP,Sênior,9968,15546
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5006,9240
+Desenvolvimento Backend,São Paulo - SP,Júnior,2656,4761
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2620,4633
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5214,9267
+Dados / BI,Remoto (Brasil),Pleno,5230,8734
+Dados / BI,Remoto (Brasil),Pleno,5416,8652
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5438,8940
+Desenvolvimento Backend,São Paulo - SP,Pleno,5242,9375
+Dados / BI,São Paulo - SP,Júnior,2728,4754
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2624,4473
+Desenvolvimento Backend,São Paulo - SP,Júnior,2525,4673
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2714,4642
+Dados / BI,Remoto (Brasil),Júnior,2592,4606
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2605,4382
+Dados / BI,São Paulo - SP,Pleno,5295,9139
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9791,16027
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9957,15460
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5074,9439
+Dados / BI,Remoto (Brasil),Júnior,2661,4633
+Desenvolvimento Backend,São Paulo - SP,Júnior,2541,4495
+Dados / BI,São Paulo - SP,Júnior,2568,4629
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5441,8921
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5085,8738
+Dados / BI,São Paulo - SP,Júnior,2564,4700
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2526,4368
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5013,9339
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2567,4636
+Desenvolvimento Backend,São Paulo - SP,Sênior,9816,15769
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5067,9089
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5440,9487
+Dados / BI,São Paulo - SP,Sênior,10053,15857
+Dados / BI,São Paulo - SP,Sênior,10052,15662
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5449,9127
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5465,8905
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2578,4507
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2633,4737
+Dados / BI,São Paulo - SP,Júnior,2636,4324
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5153,8559
+Dados / BI,São Paulo - SP,Pleno,5407,8557
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9947,16108
+Desenvolvimento Backend,São Paulo - SP,Pleno,5424,8937
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5264,9332
+Dados / BI,São Paulo - SP,Pleno,5139,8841
+Desenvolvimento Backend,São Paulo - SP,Júnior,2548,4756
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2616,4636
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5164,8569
+Desenvolvimento Backend,São Paulo - SP,Júnior,2748,4372
+Desenvolvimento Backend,São Paulo - SP,Pleno,5004,8788
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2607,4479
+Desenvolvimento Backend,São Paulo - SP,Pleno,5356,9360
+Desenvolvimento Backend,São Paulo - SP,Pleno,5074,8607
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5092,8746
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5006,8674
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5499,9003
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2688,4714
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2599,4668
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2686,4341
+Desenvolvimento Backend,São Paulo - SP,Júnior,2623,4646
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2670,4431
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5007,8721
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5124,8559
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5352,9160
+Dados / BI,São Paulo - SP,Júnior,2627,4366
+Desenvolvimento Backend,São Paulo - SP,Sênior,10277,16580
+Desenvolvimento Backend,São Paulo - SP,Júnior,2637,4725
+Dados / BI,São Paulo - SP,Júnior,2642,4723
+Desenvolvimento Backend,São Paulo - SP,Sênior,10250,15695
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5128,9470
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5277,9263
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5165,9299
+Desenvolvimento Backend,São Paulo - SP,Pleno,5440,9117
+Dados / BI,São Paulo - SP,Pleno,5419,8819
+Dados / BI,Remoto (Brasil),Sênior,10018,16076
+Dados / BI,São Paulo - SP,Pleno,5186,9344
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2747,4595
+Desenvolvimento Backend,São Paulo - SP,Pleno,5392,9114
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5164,8663
+Desenvolvimento Backend,São Paulo - SP,Júnior,2740,4386
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2549,4370
+Dados / BI,Rio de Janeiro - RJ,Pleno,5250,9088
+Dados / BI,São Paulo - SP,Júnior,2556,4630
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10171,16306
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5327,8612
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10341,16055
+Dados / BI,Remoto (Brasil),Pleno,5270,8591
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2555,4585
+Dados / BI,São Paulo - SP,Pleno,5097,8747
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5091,9121
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2663,4615
+Desenvolvimento Backend,São Paulo - SP,Pleno,5452,8656
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5172,9223
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5180,9474
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2595,4531
+Dados / BI,São Paulo - SP,Pleno,5311,8796
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10448,16824
+Dados / BI,Remoto (Brasil),Pleno,5203,8550
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5265,8688
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2556,4429
+Desenvolvimento Backend,São Paulo - SP,Sênior,10206,16984
+Desenvolvimento Backend,São Paulo - SP,Pleno,5474,9135
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2535,4455
+Desenvolvimento Backend,São Paulo - SP,Júnior,2707,4473
+Dados / BI,Remoto (Brasil),Sênior,10251,15458
+Dados / BI,Rio de Janeiro - RJ,Júnior,2711,4780
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10109,16615
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5040,9348
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2709,4542
+Dados / BI,Rio de Janeiro - RJ,Sênior,9732,16831
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2699,4643
+Desenvolvimento Backend,São Paulo - SP,Júnior,2638,4609
+Dados / BI,São Paulo - SP,Júnior,2512,4664
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5304,9139
+Desenvolvimento Backend,São Paulo - SP,Júnior,2600,4395
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5025,9111
+Desenvolvimento Backend,São Paulo - SP,Pleno,5396,9264
+Dados / BI,São Paulo - SP,Pleno,5249,8954
+Desenvolvimento Backend,São Paulo - SP,Pleno,5376,9086
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9831,16702
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5216,8924
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5012,9338
+Dados / BI,São Paulo - SP,Pleno,5411,9002
+Dados / BI,São Paulo - SP,Sênior,9739,15708
+Dados / BI,São Paulo - SP,Pleno,5043,8665
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5075,9439
+Desenvolvimento Backend,São Paulo - SP,Júnior,2705,4376
+Desenvolvimento Backend,São Paulo - SP,Júnior,2689,4595
+Dados / BI,Remoto (Brasil),Pleno,5280,9044
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5342,8568
+Desenvolvimento Backend,São Paulo - SP,Pleno,5130,8724
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5138,8604
+Dados / BI,Remoto (Brasil),Júnior,2669,4458
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2527,4329
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5194,9070
+Dados / BI,São Paulo - SP,Júnior,2721,4625
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5234,9124
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2635,4476
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2588,4670
+Desenvolvimento Backend,São Paulo - SP,Júnior,2750,4576
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2599,4775
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9786,15761
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5044,9297
+Desenvolvimento Backend,São Paulo - SP,Pleno,5320,9252
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2748,4479
+Desenvolvimento Backend,São Paulo - SP,Pleno,5105,9218
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10383,15582
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5069,8990
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2738,4609
+Desenvolvimento Backend,São Paulo - SP,Pleno,5485,9286
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10244,15360
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5210,8860
+Desenvolvimento Backend,São Paulo - SP,Sênior,10256,15860
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2506,4710
+Dados / BI,São Paulo - SP,Pleno,5313,8786
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2520,4672
+Dados / BI,São Paulo - SP,Sênior,9980,16758
+Desenvolvimento Backend,São Paulo - SP,Pleno,5242,8690
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5496,8565
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2671,4423
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9949,16563
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5126,8987
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5194,9287
+Dados / BI,Remoto (Brasil),Pleno,5304,9099
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10033,15523
+Dados / BI,Remoto (Brasil),Júnior,2562,4585
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2599,4584
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2612,4523
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2542,4536
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5462,8695
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2628,4377
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10059,15577
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2616,4622
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9592,15812
+Dados / BI,São Paulo - SP,Pleno,5083,9285
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5324,8921
+Dados / BI,São Paulo - SP,Pleno,5499,9073
+Desenvolvimento Backend,São Paulo - SP,Pleno,5022,9336
+Desenvolvimento Backend,São Paulo - SP,Sênior,10383,15607
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9552,16159
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9795,16582
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9503,16575
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5255,9106
+Dados / BI,São Paulo - SP,Pleno,5111,9152
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5307,9164
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2660,4605
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2514,4654
+Dados / BI,São Paulo - SP,Júnior,2647,4749
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2527,4533
+Dados / BI,Rio de Janeiro - RJ,Júnior,2669,4674
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5494,9016
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2696,4473
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10276,16175
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5062,9261
+Desenvolvimento Backend,São Paulo - SP,Pleno,5107,9262
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5322,9091
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5478,9357
+Dados / BI,Remoto (Brasil),Pleno,5162,8815
+Dados / BI,São Paulo - SP,Júnior,2533,4634
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5252,9377
+Desenvolvimento Backend,São Paulo - SP,Pleno,5099,8551
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10255,15724
+Dados / BI,Rio de Janeiro - RJ,Pleno,5170,8908
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2551,4673
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2629,4601
+Dados / BI,Rio de Janeiro - RJ,Pleno,5174,8955
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2544,4419
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5469,9035
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5321,9021
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2700,4736
+Dados / BI,São Paulo - SP,Sênior,9806,16457
+Dados / BI,Remoto (Brasil),Pleno,5106,9141
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9862,15435
+Dados / BI,São Paulo - SP,Júnior,2596,4640
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5095,9159
+Dados / BI,São Paulo - SP,Júnior,2719,4481
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2724,4441
+Desenvolvimento Backend,São Paulo - SP,Júnior,2634,4474
+Desenvolvimento Backend,São Paulo - SP,Júnior,2551,4787
+Desenvolvimento Backend,São Paulo - SP,Sênior,10426,16324
+Desenvolvimento Backend,São Paulo - SP,Pleno,5447,9086
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9600,16983
+Desenvolvimento Backend,São Paulo - SP,Sênior,9710,16783
+Desenvolvimento Backend,São Paulo - SP,Sênior,9618,15308
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10392,15478
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2696,4657
+Desenvolvimento Backend,São Paulo - SP,Pleno,5327,9463
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2636,4483
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2540,4460
+Dados / BI,São Paulo - SP,Pleno,5052,8761
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2741,4680
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2579,4633
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2507,4561
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5044,8986
+Dados / BI,Rio de Janeiro - RJ,Sênior,10144,16713
+Dados / BI,Rio de Janeiro - RJ,Júnior,2709,4421
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5498,9494
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2708,4730
+Dados / BI,São Paulo - SP,Pleno,5350,9209
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2557,4393
+Dados / BI,Rio de Janeiro - RJ,Sênior,9901,15675
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10403,15965
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5179,9040
+Desenvolvimento Backend,São Paulo - SP,Sênior,10118,16476
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10315,15519
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10045,16244
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5280,8712
+Dados / BI,Remoto (Brasil),Júnior,2708,4675
+Dados / BI,São Paulo - SP,Pleno,5403,8900
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5039,9307
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5303,9160
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9680,15930
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2708,4625
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5338,8612
+Dados / BI,São Paulo - SP,Sênior,10424,16846
+Dados / BI,São Paulo - SP,Júnior,2538,4551
+Dados / BI,São Paulo - SP,Pleno,5100,8760
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5467,9245
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5468,8902
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5261,8963
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2730,4601
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5183,8662
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2679,4622
+Dados / BI,Rio de Janeiro - RJ,Pleno,5195,8995
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5096,9118
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9657,15890
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2518,4651
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5223,8689
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5233,9465
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5092,9015
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5181,8781
+Desenvolvimento Backend,São Paulo - SP,Pleno,5433,9298
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5279,9140
+Desenvolvimento Backend,São Paulo - SP,Pleno,5360,8927
+Dados / BI,Remoto (Brasil),Pleno,5072,9297
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10297,15872
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9590,15802
+Dados / BI,Remoto (Brasil),Sênior,9579,16700
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2513,4782
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5262,9477
+Desenvolvimento Backend,São Paulo - SP,Pleno,5491,9367
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5305,9317
+Dados / BI,Rio de Janeiro - RJ,Júnior,2661,4562
+Dados / BI,São Paulo - SP,Pleno,5149,9378
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5064,9067
+Desenvolvimento Backend,São Paulo - SP,Júnior,2657,4463
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5309,8728
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5189,9377
+Dados / BI,São Paulo - SP,Júnior,2546,4729
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9648,16519
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5211,9338
+Dados / BI,Remoto (Brasil),Pleno,5085,8765
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2567,4706
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5243,8858
+Dados / BI,São Paulo - SP,Sênior,9739,16077
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2635,4765
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9891,16689
+Dados / BI,Remoto (Brasil),Sênior,9599,16388
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5470,9217
+Dados / BI,São Paulo - SP,Júnior,2525,4450
+Dados / BI,Rio de Janeiro - RJ,Sênior,10267,15795
+Dados / BI,São Paulo - SP,Júnior,2586,4666
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5344,8558
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2526,4670
+Desenvolvimento Backend,São Paulo - SP,Júnior,2549,4337
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10172,15744
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5061,8638
+Dados / BI,Remoto (Brasil),Pleno,5460,9213
+Desenvolvimento Backend,São Paulo - SP,Sênior,10212,15677
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10154,16228
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5462,9233
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2518,4461
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2515,4452
+Desenvolvimento Backend,São Paulo - SP,Pleno,5251,9500
+Dados / BI,São Paulo - SP,Pleno,5055,8697
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5054,9484
+Dados / BI,Remoto (Brasil),Júnior,2518,4612
+Dados / BI,São Paulo - SP,Júnior,2627,4396
+Desenvolvimento Backend,São Paulo - SP,Júnior,2599,4456
+Dados / BI,Remoto (Brasil),Pleno,5001,9077
+Dados / BI,Remoto (Brasil),Pleno,5206,9414
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2557,4321
+Dados / BI,Remoto (Brasil),Sênior,9624,16461
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2577,4525
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5187,9097
+Desenvolvimento Backend,São Paulo - SP,Sênior,10278,16869
+Dados / BI,São Paulo - SP,Pleno,5495,8943
+Dados / BI,São Paulo - SP,Pleno,5054,9195
+Desenvolvimento Backend,São Paulo - SP,Sênior,9948,16805
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2651,4442
+Dados / BI,Remoto (Brasil),Pleno,5157,9061
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5008,8587
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5207,8671
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5481,9244
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5119,9497
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5009,9032
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2666,4386
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10340,16925
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9565,16974
+Desenvolvimento Backend,São Paulo - SP,Pleno,5315,8775
+Dados / BI,São Paulo - SP,Júnior,2713,4697
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10089,16417
+Dados / BI,São Paulo - SP,Sênior,10282,15393
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2536,4707
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5224,8799
+Dados / BI,Remoto (Brasil),Júnior,2716,4643
+Desenvolvimento Backend,São Paulo - SP,Júnior,2624,4361
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2666,4623
+Dados / BI,São Paulo - SP,Sênior,10291,16274
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5267,9011
+Desenvolvimento Backend,São Paulo - SP,Pleno,5019,9160
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10142,16992
+Desenvolvimento Backend,São Paulo - SP,Júnior,2560,4418
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2592,4761
+Dados / BI,São Paulo - SP,Júnior,2697,4640
+Dados / BI,Remoto (Brasil),Júnior,2703,4396
+Dados / BI,São Paulo - SP,Pleno,5090,8713
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5145,8764
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10276,16228
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9680,15623
+Dados / BI,Rio de Janeiro - RJ,Júnior,2729,4440
+Dados / BI,São Paulo - SP,Júnior,2550,4702
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9833,15766
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9884,15751
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2611,4394
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2595,4389
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2569,4423
+Desenvolvimento Backend,São Paulo - SP,Pleno,5143,8689
+Desenvolvimento Backend,São Paulo - SP,Pleno,5389,8901
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2703,4646
+Desenvolvimento Backend,São Paulo - SP,Pleno,5283,9425
+Dados / BI,Remoto (Brasil),Pleno,5441,8771
+Dados / BI,São Paulo - SP,Júnior,2686,4539
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2648,4433
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2646,4779
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2620,4695
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5245,9379
+Dados / BI,São Paulo - SP,Pleno,5123,8635
+Desenvolvimento Backend,São Paulo - SP,Pleno,5486,8773
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5046,8566
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5439,9134
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5395,8691
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9879,16583
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9572,16088
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2609,4705
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5406,8762
+Dados / BI,Remoto (Brasil),Sênior,10253,15412
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2513,4376
+Dados / BI,Rio de Janeiro - RJ,Júnior,2593,4409
+Desenvolvimento Backend,São Paulo - SP,Pleno,5396,8759
+Dados / BI,Rio de Janeiro - RJ,Pleno,5332,9039
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10219,15729
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2729,4456
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2595,4496
+Dados / BI,Remoto (Brasil),Sênior,9981,16753
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9962,16571
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5500,9454
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5041,8950
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9611,15637
+Dados / BI,Rio de Janeiro - RJ,Pleno,5447,8759
+Dados / BI,São Paulo - SP,Júnior,2748,4669
+Dados / BI,São Paulo - SP,Júnior,2613,4697
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2723,4730
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5210,9142
+Dados / BI,Remoto (Brasil),Júnior,2651,4660
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5155,9130
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2566,4436
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9548,15603
+Dados / BI,São Paulo - SP,Júnior,2736,4402
+Dados / BI,Rio de Janeiro - RJ,Sênior,10359,16750
+Desenvolvimento Backend,São Paulo - SP,Júnior,2560,4379
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2566,4509
+Desenvolvimento Backend,São Paulo - SP,Júnior,2581,4496
+Desenvolvimento Backend,São Paulo - SP,Sênior,10046,15917
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10286,15597
+Dados / BI,São Paulo - SP,Júnior,2748,4698
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5151,9035
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5293,9232
+Dados / BI,Rio de Janeiro - RJ,Sênior,9952,15993
+Dados / BI,São Paulo - SP,Sênior,9642,16688
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5430,8775
+Dados / BI,São Paulo - SP,Júnior,2664,4419
+Desenvolvimento Backend,São Paulo - SP,Sênior,9784,15700
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5343,8639
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5308,9169
+Dados / BI,São Paulo - SP,Pleno,5203,8701
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5006,8841
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5287,8639
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5212,9372
+Dados / BI,São Paulo - SP,Pleno,5459,8984
+Desenvolvimento Backend,São Paulo - SP,Sênior,10112,15476
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10037,15986
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5045,8556
+Dados / BI,Rio de Janeiro - RJ,Pleno,5284,9023
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2547,4746
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2711,4474
+Desenvolvimento Backend,São Paulo - SP,Pleno,5237,8779
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2744,4647
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5457,8844
+Desenvolvimento Backend,São Paulo - SP,Pleno,5125,8579
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9568,16526
+Dados / BI,São Paulo - SP,Pleno,5444,8814
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5061,8932
+Desenvolvimento Backend,São Paulo - SP,Sênior,9666,16491
+Desenvolvimento Backend,São Paulo - SP,Sênior,9638,16031
+Desenvolvimento Backend,São Paulo - SP,Pleno,5466,8914
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5039,9076
+Desenvolvimento Backend,São Paulo - SP,Pleno,5306,9320
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2716,4670
+Dados / BI,São Paulo - SP,Pleno,5185,8648
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2535,4585
+Desenvolvimento Backend,São Paulo - SP,Pleno,5471,9482
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5425,8742
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5487,9088
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5410,8666
+Desenvolvimento Backend,São Paulo - SP,Júnior,2533,4792
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5071,9386
+Desenvolvimento Backend,São Paulo - SP,Pleno,5496,8900
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5060,8777
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5157,8678
+Desenvolvimento Backend,São Paulo - SP,Pleno,5390,9352
+Desenvolvimento Backend,São Paulo - SP,Pleno,5220,8593
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5303,8610
+Desenvolvimento Backend,São Paulo - SP,Júnior,2577,4661
+Dados / BI,São Paulo - SP,Júnior,2654,4425
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5014,8642
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2648,4498
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10127,15795
+Dados / BI,Rio de Janeiro - RJ,Sênior,10281,15328
+Dados / BI,Remoto (Brasil),Sênior,9675,16844
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2554,4791
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2650,4414
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2590,4514
+Desenvolvimento Backend,São Paulo - SP,Pleno,5389,8871
+Dados / BI,Rio de Janeiro - RJ,Júnior,2695,4504
+Desenvolvimento Backend,São Paulo - SP,Júnior,2583,4572
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5159,9253
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5148,9425
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10321,16274
+Dados / BI,São Paulo - SP,Júnior,2672,4571
+Desenvolvimento Backend,São Paulo - SP,Pleno,5346,8637
+Dados / BI,Remoto (Brasil),Pleno,5500,8654
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2593,4421
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9625,15776
+Dados / BI,São Paulo - SP,Júnior,2682,4712
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10159,16119
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9996,16347
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2564,4570
+Desenvolvimento Backend,São Paulo - SP,Júnior,2525,4697
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5497,8733
+Desenvolvimento Backend,São Paulo - SP,Júnior,2659,4639
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5392,9054
+Desenvolvimento Backend,São Paulo - SP,Pleno,5251,9066
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10059,15336
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5468,8671
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5235,8586
+Desenvolvimento Backend,São Paulo - SP,Sênior,9810,16746
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2599,4569
+Dados / BI,São Paulo - SP,Pleno,5283,9251
+Desenvolvimento Backend,São Paulo - SP,Pleno,5080,9068
+Dados / BI,Remoto (Brasil),Pleno,5193,9181
+Dados / BI,São Paulo - SP,Júnior,2515,4334
+Dados / BI,Remoto (Brasil),Júnior,2707,4699
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5194,8649
+Desenvolvimento Backend,São Paulo - SP,Pleno,5028,9227
+Dados / BI,Remoto (Brasil),Júnior,2521,4786
+Dados / BI,São Paulo - SP,Júnior,2543,4330
+Dados / BI,São Paulo - SP,Pleno,5216,9131
+Desenvolvimento Backend,São Paulo - SP,Júnior,2620,4621
+Desenvolvimento Backend,São Paulo - SP,Pleno,5165,9136
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5105,8894
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5085,9179
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2662,4753
+Desenvolvimento Backend,São Paulo - SP,Sênior,9719,15888
+Dados / BI,Remoto (Brasil),Pleno,5411,8781
+Dados / BI,São Paulo - SP,Pleno,5296,8647
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5271,9036
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2710,4474
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5160,8754
+Dados / BI,Remoto (Brasil),Pleno,5343,9331
+Desenvolvimento Backend,São Paulo - SP,Pleno,5264,9433
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5421,9310
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5414,9179
+Desenvolvimento Backend,São Paulo - SP,Sênior,10244,16583
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5123,8704
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9920,15952
+Desenvolvimento Backend,São Paulo - SP,Pleno,5433,8972
+Desenvolvimento Backend,São Paulo - SP,Júnior,2675,4627
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2507,4445
+Dados / BI,São Paulo - SP,Pleno,5223,8982
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2534,4334
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5090,9209
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5010,8606
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5443,8615
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2668,4773
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5071,8791
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10034,16660
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9757,16316
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2706,4480
+Desenvolvimento Backend,São Paulo - SP,Pleno,5383,9311
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2544,4429
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2650,4348
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9824,16417
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10400,16906
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5420,8865
+Dados / BI,Remoto (Brasil),Pleno,5430,9307
+Desenvolvimento Backend,São Paulo - SP,Pleno,5403,9237
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2745,4678
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2721,4441
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9902,15823
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5152,8765
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5162,9450
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9780,15464
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5211,9498
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10339,15505
+Dados / BI,Remoto (Brasil),Pleno,5180,8980
+Desenvolvimento Backend,São Paulo - SP,Pleno,5232,9261
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5322,9004
+Desenvolvimento Backend,São Paulo - SP,Pleno,5321,8862
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2632,4685
+Dados / BI,Remoto (Brasil),Pleno,5433,9158
+Dados / BI,São Paulo - SP,Júnior,2622,4767
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5423,8885
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5093,8952
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9729,15342
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5320,8784
+Desenvolvimento Backend,São Paulo - SP,Júnior,2679,4756
+Desenvolvimento Backend,São Paulo - SP,Pleno,5133,8702
+Dados / BI,São Paulo - SP,Sênior,9620,15328
+Dados / BI,São Paulo - SP,Sênior,9964,16994
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5097,9432
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5195,8683
+Dados / BI,São Paulo - SP,Júnior,2710,4464
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2702,4394
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2615,4784
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5043,8560
+Desenvolvimento Backend,São Paulo - SP,Sênior,9907,16706
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5305,8812
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2738,4440
+Dados / BI,Rio de Janeiro - RJ,Pleno,5343,9371
+Dados / BI,São Paulo - SP,Júnior,2564,4578
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5189,8685
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5133,8723
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9635,15483
+Desenvolvimento Backend,São Paulo - SP,Júnior,2529,4480
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10354,15875
+Dados / BI,Remoto (Brasil),Júnior,2724,4454
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2580,4543
+Dados / BI,Remoto (Brasil),Sênior,10282,15609
+Desenvolvimento Backend,São Paulo - SP,Pleno,5225,8604
+Desenvolvimento Backend,São Paulo - SP,Júnior,2620,4453
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2729,4794
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10074,16293
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5075,8676
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2713,4406
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5339,9149
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2696,4612
+Desenvolvimento Backend,São Paulo - SP,Júnior,2627,4666
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2674,4382
+Desenvolvimento Backend,São Paulo - SP,Sênior,10357,15962
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10175,16282
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5002,8887
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9832,16798
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9632,15732
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2704,4348
+Desenvolvimento Backend,São Paulo - SP,Pleno,5047,8958
+Desenvolvimento Backend,São Paulo - SP,Sênior,9908,15482
+Dados / BI,Remoto (Brasil),Pleno,5206,8841
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2576,4571
+Dados / BI,São Paulo - SP,Sênior,10425,16702
+Desenvolvimento Backend,São Paulo - SP,Júnior,2594,4582
+Dados / BI,São Paulo - SP,Pleno,5137,9126
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5188,9178
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2631,4494
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5365,8708
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5042,8847
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9807,15604
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2563,4587
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5469,8596
+Dados / BI,Remoto (Brasil),Pleno,5237,9226
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2649,4361
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5236,8733
+Dados / BI,São Paulo - SP,Júnior,2606,4768
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5387,9236
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2735,4766
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2654,4452
+Desenvolvimento Backend,São Paulo - SP,Pleno,5002,8954
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5354,8964
+Dados / BI,Remoto (Brasil),Pleno,5249,8860
+Dados / BI,Remoto (Brasil),Júnior,2672,4673
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2534,4327
+Desenvolvimento Backend,São Paulo - SP,Pleno,5096,9429
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2561,4543
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5044,8858
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5059,8720
+Desenvolvimento Backend,São Paulo - SP,Pleno,5248,9032
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2575,4611
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2526,4642
+Dados / BI,Rio de Janeiro - RJ,Pleno,5253,9304
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9537,16298
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5478,9244
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2515,4590
+Dados / BI,Remoto (Brasil),Pleno,5137,9464
+Dados / BI,São Paulo - SP,Júnior,2659,4800
+Dados / BI,São Paulo - SP,Pleno,5082,8844
+Dados / BI,Rio de Janeiro - RJ,Pleno,5259,8774
+Dados / BI,São Paulo - SP,Sênior,10373,16764
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2682,4519
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5376,8918
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10136,15724
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5066,8727
+Desenvolvimento Backend,São Paulo - SP,Júnior,2606,4572
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2504,4503
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2711,4760
+Dados / BI,São Paulo - SP,Júnior,2610,4378
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2566,4494
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10070,15847
+Desenvolvimento Backend,São Paulo - SP,Sênior,10118,16671
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10318,16236
+Dados / BI,Remoto (Brasil),Sênior,10300,16550
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2643,4341
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2552,4786
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5390,9068
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2593,4491
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2748,4532
+Desenvolvimento Backend,São Paulo - SP,Sênior,9985,15999
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2683,4706
+Dados / BI,Remoto (Brasil),Júnior,2692,4705
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2609,4531
+Dados / BI,Remoto (Brasil),Sênior,10028,16927
+Dados / BI,São Paulo - SP,Pleno,5394,8560
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2586,4481
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5201,9327
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2647,4349
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10396,16364
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10217,16433
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2588,4324
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5075,9267
+Dados / BI,São Paulo - SP,Sênior,10139,16914
+Dados / BI,Remoto (Brasil),Júnior,2707,4720
+Dados / BI,São Paulo - SP,Sênior,9586,15375
+Dados / BI,São Paulo - SP,Pleno,5450,8679
+Desenvolvimento Backend,São Paulo - SP,Júnior,2630,4602
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5011,8578
+Desenvolvimento Backend,São Paulo - SP,Júnior,2713,4716
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5374,8611
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5063,8598
+Desenvolvimento Backend,São Paulo - SP,Pleno,5293,9304
+Dados / BI,Remoto (Brasil),Júnior,2690,4617
+Dados / BI,São Paulo - SP,Pleno,5273,9414
+Dados / BI,Rio de Janeiro - RJ,Júnior,2700,4737
+Desenvolvimento Backend,São Paulo - SP,Pleno,5266,9305
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5421,9347
+Desenvolvimento Backend,São Paulo - SP,Pleno,5424,8971
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9987,15739
+Dados / BI,São Paulo - SP,Pleno,5301,9122
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2627,4645
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10001,16798
+Dados / BI,São Paulo - SP,Júnior,2532,4568
+Desenvolvimento Backend,São Paulo - SP,Pleno,5441,9091
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5382,8710
+Desenvolvimento Backend,São Paulo - SP,Sênior,10116,16136
+Desenvolvimento Backend,São Paulo - SP,Júnior,2633,4398
+Desenvolvimento Backend,São Paulo - SP,Pleno,5150,9047
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9931,15399
+Dados / BI,São Paulo - SP,Júnior,2546,4739
+Desenvolvimento Backend,São Paulo - SP,Pleno,5034,9441
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2615,4780
+Desenvolvimento Backend,São Paulo - SP,Sênior,10353,16540
+Dados / BI,São Paulo - SP,Pleno,5389,9010
+Dados / BI,Rio de Janeiro - RJ,Pleno,5045,9369
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5460,8954
+Desenvolvimento Backend,São Paulo - SP,Pleno,5226,9303
+Dados / BI,Remoto (Brasil),Júnior,2506,4612
+Dados / BI,São Paulo - SP,Júnior,2665,4383
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10054,16481
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5384,9037
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5272,8734
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2712,4681
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2636,4630
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5478,8573
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2635,4482
+Desenvolvimento Backend,São Paulo - SP,Sênior,10054,15644
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9657,15928
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2746,4486
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2525,4483
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2741,4743
+Desenvolvimento Backend,São Paulo - SP,Júnior,2652,4620
+Desenvolvimento Backend,São Paulo - SP,Pleno,5486,8667
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5033,9045
+Dados / BI,Rio de Janeiro - RJ,Sênior,9519,15851
+Dados / BI,São Paulo - SP,Júnior,2695,4604
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5228,8635
+Dados / BI,São Paulo - SP,Sênior,9645,16064
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2743,4536
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2708,4557
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5085,8550
+Dados / BI,Remoto (Brasil),Júnior,2564,4749
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9717,16498
+Desenvolvimento Backend,São Paulo - SP,Júnior,2636,4608
+Dados / BI,Remoto (Brasil),Pleno,5425,8693
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9715,16550
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9850,16600
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5125,9228
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5306,8886
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5001,9173
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5211,9119
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5275,8633
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2507,4776
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5180,9382
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5429,9336
+Desenvolvimento Backend,São Paulo - SP,Júnior,2594,4799
+Dados / BI,Rio de Janeiro - RJ,Pleno,5388,8837
+Dados / BI,Remoto (Brasil),Júnior,2708,4634
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2750,4572
+Dados / BI,São Paulo - SP,Pleno,5360,9273
+Desenvolvimento Backend,São Paulo - SP,Sênior,10153,16111
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5087,9115
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5308,9128
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5065,8815
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10246,16902
+Dados / BI,Rio de Janeiro - RJ,Júnior,2748,4674
+Desenvolvimento Backend,São Paulo - SP,Pleno,5452,9014
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5332,8603
+Desenvolvimento Backend,São Paulo - SP,Sênior,9916,15861
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5264,9327
+Dados / BI,São Paulo - SP,Júnior,2735,4535
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5171,8633
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9731,16712
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2542,4488
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2622,4541
+Desenvolvimento Backend,São Paulo - SP,Pleno,5171,9410
+Desenvolvimento Backend,São Paulo - SP,Júnior,2587,4746
+Dados / BI,São Paulo - SP,Sênior,9574,16888
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2614,4616
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9886,15941
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9563,16943
+Dados / BI,Rio de Janeiro - RJ,Pleno,5033,8654
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2597,4525
+Dados / BI,São Paulo - SP,Júnior,2653,4723
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5407,8988
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2740,4665
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2549,4375
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2702,4750
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5131,8913
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5124,8690
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2611,4582
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2726,4597
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2587,4469
+Desenvolvimento Backend,São Paulo - SP,Pleno,5347,8698
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10379,15411
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2732,4423
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5355,9258
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2648,4609
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5083,8657
+Desenvolvimento Backend,São Paulo - SP,Júnior,2556,4791
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2659,4429
+Dados / BI,São Paulo - SP,Sênior,9839,16953
+Desenvolvimento Backend,São Paulo - SP,Júnior,2501,4505
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5072,8847
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9868,15389
+Desenvolvimento Backend,São Paulo - SP,Júnior,2556,4773
+Desenvolvimento Backend,São Paulo - SP,Sênior,9751,15665
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2525,4330
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5453,8663
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5189,9378
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5409,9188
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2536,4771
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2596,4675
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9750,15394
+Desenvolvimento Backend,São Paulo - SP,Sênior,9801,16917
+Desenvolvimento Backend,São Paulo - SP,Pleno,5143,9443
+Dados / BI,Remoto (Brasil),Pleno,5250,8764
+Desenvolvimento Backend,São Paulo - SP,Sênior,10129,15432
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10269,16342
+Dados / BI,São Paulo - SP,Júnior,2682,4511
+Dados / BI,Rio de Janeiro - RJ,Sênior,9985,15849
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10165,15374
+Desenvolvimento Backend,São Paulo - SP,Pleno,5120,8955
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5080,9412
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2521,4471
+Dados / BI,São Paulo - SP,Pleno,5238,9074
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5209,8926
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5091,9002
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2521,4470
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5402,8833
+Desenvolvimento Backend,São Paulo - SP,Júnior,2509,4599
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2577,4701
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2680,4629
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5378,9106
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2710,4497
+Dados / BI,São Paulo - SP,Pleno,5296,9325
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5389,8702
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5107,9035
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5239,9289
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2716,4416
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5224,9010
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2723,4385
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5337,9404
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5385,8963
+Dados / BI,São Paulo - SP,Júnior,2650,4331
+Dados / BI,Remoto (Brasil),Júnior,2750,4489
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10087,16100
+Desenvolvimento Backend,São Paulo - SP,Pleno,5273,8945
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5231,9204
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2641,4410
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5095,8753
+Dados / BI,São Paulo - SP,Júnior,2559,4469
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2632,4325
+Desenvolvimento Backend,São Paulo - SP,Pleno,5080,8663
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5199,9475
+Dados / BI,São Paulo - SP,Júnior,2610,4738
+Dados / BI,São Paulo - SP,Pleno,5480,8867
+Desenvolvimento Backend,São Paulo - SP,Pleno,5141,8756
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2602,4629
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10400,16305
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5147,9211
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5364,9361
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9679,16150
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5234,8943
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5201,9265
+Dados / BI,Rio de Janeiro - RJ,Sênior,9780,16586
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2685,4689
+Desenvolvimento Backend,São Paulo - SP,Pleno,5390,9116
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5258,9334
+Desenvolvimento Backend,São Paulo - SP,Júnior,2553,4579
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5345,9317
+Desenvolvimento Backend,São Paulo - SP,Pleno,5099,8956
+Dados / BI,São Paulo - SP,Pleno,5069,8884
+Dados / BI,Rio de Janeiro - RJ,Pleno,5042,9111
+Desenvolvimento Backend,São Paulo - SP,Pleno,5241,9390
+Desenvolvimento Backend,São Paulo - SP,Sênior,10121,15505
+Dados / BI,São Paulo - SP,Pleno,5086,8629
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2612,4503
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10045,15742
+Dados / BI,Rio de Janeiro - RJ,Pleno,5267,9206
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2676,4477
+Desenvolvimento Backend,São Paulo - SP,Júnior,2596,4712
+Desenvolvimento Backend,São Paulo - SP,Sênior,9704,15487
+Dados / BI,São Paulo - SP,Júnior,2710,4418
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9598,16932
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5022,8975
+Dados / BI,Remoto (Brasil),Júnior,2660,4417
+Desenvolvimento Backend,São Paulo - SP,Pleno,5219,8673
+Dados / BI,São Paulo - SP,Júnior,2503,4525
+Dados / BI,São Paulo - SP,Júnior,2556,4353
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5022,8618
+Dados / BI,Remoto (Brasil),Sênior,10011,15508
+Desenvolvimento Backend,São Paulo - SP,Sênior,10082,15651
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2661,4676
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9636,15980
+Dados / BI,São Paulo - SP,Pleno,5500,9421
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2733,4619
+Dados / BI,São Paulo - SP,Pleno,5257,9151
+Desenvolvimento Backend,São Paulo - SP,Júnior,2694,4779
+Desenvolvimento Backend,São Paulo - SP,Pleno,5124,9184
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5103,8705
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2685,4626
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9637,15869
+Dados / BI,São Paulo - SP,Júnior,2702,4532
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2716,4695
+Dados / BI,São Paulo - SP,Pleno,5464,9489
+Dados / BI,São Paulo - SP,Pleno,5368,8777
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2613,4642
+Dados / BI,São Paulo - SP,Júnior,2549,4346
+Dados / BI,Remoto (Brasil),Júnior,2523,4408
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9741,16339
+Desenvolvimento Backend,São Paulo - SP,Júnior,2684,4421
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2573,4615
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2700,4566
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5085,9032
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5389,8709
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2597,4538
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10109,16400
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2618,4476
+Desenvolvimento Backend,São Paulo - SP,Pleno,5036,8891
+Desenvolvimento Backend,São Paulo - SP,Júnior,2548,4322
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5251,8964
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9882,16086
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5209,9456
+Desenvolvimento Backend,São Paulo - SP,Pleno,5289,8716
+Dados / BI,São Paulo - SP,Júnior,2733,4704
+Dados / BI,Rio de Janeiro - RJ,Pleno,5352,8927
+Desenvolvimento Backend,São Paulo - SP,Sênior,10253,15805
+Dados / BI,Rio de Janeiro - RJ,Sênior,10146,16747
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5133,9169
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2654,4616
+Dados / BI,Remoto (Brasil),Júnior,2697,4367
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5300,9472
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9669,16999
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5272,9224
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5385,9447
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2646,4717
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2553,4796
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2543,4737
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9927,16375
+Desenvolvimento Backend,São Paulo - SP,Pleno,5090,8933
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5257,8662
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2515,4703
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2730,4766
+Desenvolvimento Backend,São Paulo - SP,Pleno,5444,9201
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5141,8615
+Desenvolvimento Backend,São Paulo - SP,Pleno,5344,9328
+Dados / BI,Remoto (Brasil),Pleno,5003,9231
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2633,4725
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10279,15844
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2609,4492
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10336,15790
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5029,8914
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2722,4677
+Desenvolvimento Backend,São Paulo - SP,Sênior,9526,16532
+Desenvolvimento Backend,São Paulo - SP,Sênior,10269,16969
+Dados / BI,Rio de Janeiro - RJ,Pleno,5445,9036
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2663,4736
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10326,16806
+Dados / BI,São Paulo - SP,Pleno,5204,9306
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5476,9037
+Desenvolvimento Backend,São Paulo - SP,Sênior,10251,16088
+Dados / BI,Remoto (Brasil),Júnior,2633,4768
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5065,9059
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5280,9445
+Dados / BI,São Paulo - SP,Sênior,9993,16657
+Dados / BI,São Paulo - SP,Júnior,2741,4657
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9529,15628
+Dados / BI,Rio de Janeiro - RJ,Pleno,5143,8775
+Dados / BI,Remoto (Brasil),Sênior,10186,15552
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5251,8642
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2647,4712
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2733,4687
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5401,9125
+Desenvolvimento Backend,São Paulo - SP,Júnior,2566,4379
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2651,4799
+Desenvolvimento Backend,São Paulo - SP,Pleno,5065,9423
+Dados / BI,São Paulo - SP,Pleno,5159,8613
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5216,8877
+Dados / BI,Rio de Janeiro - RJ,Sênior,9629,16364
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2502,4595
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9803,15748
+Dados / BI,Remoto (Brasil),Pleno,5074,9314
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5306,8877
+Dados / BI,Rio de Janeiro - RJ,Júnior,2717,4681
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2574,4680
+Dados / BI,Remoto (Brasil),Sênior,9656,16995
+Dados / BI,Remoto (Brasil),Sênior,9730,16734
+Dados / BI,São Paulo - SP,Sênior,10377,16298
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10434,15626
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2673,4562
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5270,9294
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2719,4600
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5297,9436
+Desenvolvimento Backend,São Paulo - SP,Pleno,5234,9220
+Desenvolvimento Backend,São Paulo - SP,Pleno,5149,9468
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5376,9216
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5347,9354
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9937,16691
+Desenvolvimento Backend,São Paulo - SP,Júnior,2749,4562
+Dados / BI,Remoto (Brasil),Sênior,10165,15993
+Desenvolvimento Backend,São Paulo - SP,Pleno,5206,8800
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5352,9160
+Dados / BI,São Paulo - SP,Pleno,5354,9364
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5418,9215
+Desenvolvimento Backend,São Paulo - SP,Pleno,5005,8672
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5465,9071
+Dados / BI,São Paulo - SP,Sênior,9991,15860
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5196,9045
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2532,4370
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10050,15678
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5418,9099
+Dados / BI,Remoto (Brasil),Júnior,2714,4619
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5385,9321
+Dados / BI,São Paulo - SP,Júnior,2720,4626
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5160,8675
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5044,9125
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2531,4579
+Desenvolvimento Backend,São Paulo - SP,Júnior,2750,4656
+Desenvolvimento Backend,São Paulo - SP,Sênior,10031,16903
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2625,4675
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10120,16402
+Desenvolvimento Backend,São Paulo - SP,Pleno,5022,8792
+Dados / BI,São Paulo - SP,Sênior,9720,15574
+Dados / BI,São Paulo - SP,Júnior,2532,4693
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2597,4652
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2565,4666
+Dados / BI,Remoto (Brasil),Pleno,5036,9194
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5098,9281
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10119,15635
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9944,16076
+Desenvolvimento Backend,São Paulo - SP,Júnior,2531,4592
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2663,4365
+Desenvolvimento Backend,São Paulo - SP,Júnior,2722,4728
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5496,8777
+Dados / BI,São Paulo - SP,Sênior,9679,16378
+Dados / BI,Rio de Janeiro - RJ,Sênior,10001,15495
+Dados / BI,Remoto (Brasil),Sênior,10064,15855
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2742,4704
+Dados / BI,Rio de Janeiro - RJ,Pleno,5495,9357
+Desenvolvimento Backend,São Paulo - SP,Sênior,9988,16513
+Desenvolvimento Backend,São Paulo - SP,Pleno,5079,9223
+Dados / BI,Remoto (Brasil),Pleno,5027,9490
+Dados / BI,Rio de Janeiro - RJ,Pleno,5127,9244
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2590,4728
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10033,16771
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2719,4364
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2523,4644
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9669,16478
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5252,9377
+Desenvolvimento Backend,São Paulo - SP,Pleno,5260,9298
+Dados / BI,São Paulo - SP,Pleno,5346,9459
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2548,4786
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5273,9317
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5471,9393
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5021,9171
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10282,16372
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2534,4583
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5087,8932
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5425,9102
+Desenvolvimento Backend,São Paulo - SP,Júnior,2623,4470
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5201,8772
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10027,16991
+Desenvolvimento Backend,São Paulo - SP,Sênior,10368,16299
+Desenvolvimento Backend,São Paulo - SP,Pleno,5152,8912
+Desenvolvimento Backend,São Paulo - SP,Pleno,5205,8913
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2635,4583
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9507,15618
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5191,8856
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5137,8661
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5071,8912
+Desenvolvimento Backend,São Paulo - SP,Sênior,10226,15706
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2607,4700
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5485,9040
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2625,4601
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2692,4711
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5379,9413
+Desenvolvimento Backend,São Paulo - SP,Sênior,10311,15343
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2675,4441
+Desenvolvimento Backend,São Paulo - SP,Pleno,5305,9305
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2521,4709
+Desenvolvimento Backend,São Paulo - SP,Pleno,5095,8805
+Dados / BI,São Paulo - SP,Júnior,2679,4446
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5400,9379
+Dados / BI,Rio de Janeiro - RJ,Pleno,5096,9425
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2533,4525
+Dados / BI,São Paulo - SP,Sênior,9936,15336
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2604,4588
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2586,4538
+Desenvolvimento Backend,São Paulo - SP,Pleno,5155,8662
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2607,4446
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2513,4658
+Desenvolvimento Backend,São Paulo - SP,Pleno,5465,9171
+Desenvolvimento Backend,São Paulo - SP,Sênior,9872,15984
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2641,4714
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5185,9310
+Desenvolvimento Backend,São Paulo - SP,Pleno,5332,8832
+Dados / BI,São Paulo - SP,Sênior,9633,16589
+Dados / BI,São Paulo - SP,Pleno,5467,9455
+Desenvolvimento Backend,São Paulo - SP,Pleno,5473,8651
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2685,4562
+Desenvolvimento Backend,São Paulo - SP,Pleno,5022,8680
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2724,4708
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10416,16049
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9569,16288
+Dados / BI,Rio de Janeiro - RJ,Pleno,5011,8720
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2511,4609
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2708,4523
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5038,8719
+Dados / BI,São Paulo - SP,Pleno,5199,8960
+Dados / BI,São Paulo - SP,Júnior,2646,4431
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10025,16232
+Desenvolvimento Backend,São Paulo - SP,Júnior,2718,4432
+Dados / BI,São Paulo - SP,Júnior,2557,4343
+Desenvolvimento Backend,São Paulo - SP,Pleno,5482,9454
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9552,16615
+Dados / BI,Rio de Janeiro - RJ,Júnior,2529,4320
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9832,15470
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2534,4529
+Desenvolvimento Backend,São Paulo - SP,Sênior,10140,16971
+Desenvolvimento Backend,São Paulo - SP,Pleno,5143,8730
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5444,9346
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5352,8941
+Desenvolvimento Backend,São Paulo - SP,Pleno,5309,9114
+Dados / BI,Remoto (Brasil),Júnior,2552,4617
+Dados / BI,São Paulo - SP,Pleno,5228,8787
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2622,4367
+Dados / BI,Remoto (Brasil),Sênior,9680,15686
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2572,4330
+Desenvolvimento Backend,São Paulo - SP,Sênior,10203,16544
+Dados / BI,São Paulo - SP,Pleno,5232,9480
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5070,9294
+Desenvolvimento Backend,São Paulo - SP,Júnior,2598,4330
+Desenvolvimento Backend,São Paulo - SP,Sênior,9544,15570
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2660,4627
+Dados / BI,São Paulo - SP,Sênior,9608,16410
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5103,8692
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5083,8864
+Dados / BI,São Paulo - SP,Júnior,2677,4456
+Desenvolvimento Backend,São Paulo - SP,Sênior,9605,16415
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9645,15302
+Dados / BI,São Paulo - SP,Pleno,5075,8911
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9893,16706
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2543,4376
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2519,4635
+Dados / BI,São Paulo - SP,Sênior,9586,15388
+Dados / BI,São Paulo - SP,Pleno,5307,8735
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5154,9189
+Dados / BI,Remoto (Brasil),Júnior,2734,4575
+Desenvolvimento Backend,São Paulo - SP,Sênior,10228,16935
+Dados / BI,São Paulo - SP,Sênior,9652,16892
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5369,9365
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2647,4538
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2532,4413
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5246,9260
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5070,9371
+Dados / BI,São Paulo - SP,Pleno,5281,9059
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5117,8943
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5397,9260
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2592,4321
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2621,4388
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2717,4754
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2536,4747
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9748,15731
+Dados / BI,São Paulo - SP,Júnior,2746,4676
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2747,4537
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5037,9038
+Desenvolvimento Backend,São Paulo - SP,Júnior,2593,4392
+Desenvolvimento Backend,São Paulo - SP,Pleno,5416,8976
+Dados / BI,São Paulo - SP,Pleno,5383,9090
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5172,9004
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2539,4350
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5257,8714
+Dados / BI,Remoto (Brasil),Pleno,5448,9015
+Dados / BI,São Paulo - SP,Sênior,10013,15926
+Dados / BI,Remoto (Brasil),Júnior,2749,4367
+Dados / BI,São Paulo - SP,Júnior,2554,4525
+Dados / BI,São Paulo - SP,Júnior,2690,4606
+Dados / BI,São Paulo - SP,Pleno,5244,8870
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5027,9372
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2526,4359
+Desenvolvimento Backend,São Paulo - SP,Júnior,2561,4464
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2502,4707
+Desenvolvimento Backend,São Paulo - SP,Júnior,2737,4336
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5022,9127
+Desenvolvimento Backend,São Paulo - SP,Júnior,2523,4478
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2601,4576
+Dados / BI,São Paulo - SP,Pleno,5498,8682
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5379,9065
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2650,4727
+Desenvolvimento Backend,São Paulo - SP,Sênior,9797,15630
+Desenvolvimento Backend,São Paulo - SP,Sênior,9595,16771
+Dados / BI,Remoto (Brasil),Pleno,5072,9337
+Dados / BI,Remoto (Brasil),Pleno,5373,9173
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2701,4387
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9941,15381
+Dados / BI,Remoto (Brasil),Pleno,5106,9175
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5254,8649
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10060,16933
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2580,4406
+Desenvolvimento Backend,São Paulo - SP,Júnior,2593,4500
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9764,16269
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5473,8693
+Desenvolvimento Backend,São Paulo - SP,Pleno,5186,9429
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5348,8682
+Desenvolvimento Backend,São Paulo - SP,Pleno,5160,8932
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5449,9446
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9558,16817
+Desenvolvimento Backend,São Paulo - SP,Pleno,5079,9423
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5437,8624
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5178,9027
+Desenvolvimento Backend,São Paulo - SP,Sênior,9611,15475
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9906,16873
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2587,4629
+Desenvolvimento Backend,São Paulo - SP,Pleno,5142,9015
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5327,8768
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5194,8613
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5242,8768
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10200,16166
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2517,4460
+Dados / BI,Rio de Janeiro - RJ,Pleno,5446,8979
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2712,4347
+Desenvolvimento Backend,São Paulo - SP,Júnior,2692,4472
+Dados / BI,São Paulo - SP,Pleno,5243,9098
+Dados / BI,São Paulo - SP,Pleno,5181,9484
+Dados / BI,São Paulo - SP,Júnior,2700,4777
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5315,8698
+Dados / BI,São Paulo - SP,Sênior,10260,16990
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2617,4798
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2748,4665
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2615,4746
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5296,8649
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2678,4599
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2553,4417
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2708,4506
+Dados / BI,Rio de Janeiro - RJ,Pleno,5444,8677
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5210,8910
+Desenvolvimento Backend,São Paulo - SP,Pleno,5391,8893
+Dados / BI,São Paulo - SP,Pleno,5090,9116
+Dados / BI,São Paulo - SP,Pleno,5432,9225
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2658,4800
+Desenvolvimento Backend,São Paulo - SP,Sênior,10325,15512
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9606,16316
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5324,9004
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5436,8980
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5058,8750
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2703,4787
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5401,9308
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10019,15880
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2731,4727
+Desenvolvimento Backend,São Paulo - SP,Júnior,2732,4532
+Dados / BI,Rio de Janeiro - RJ,Sênior,10360,16972
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2543,4612
+Dados / BI,Remoto (Brasil),Sênior,9697,16562
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10091,16178
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9677,16125
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5050,9277
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5401,8951
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2641,4401
+Dados / BI,Rio de Janeiro - RJ,Júnior,2611,4325
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2681,4598
+Desenvolvimento Backend,São Paulo - SP,Pleno,5380,9301
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5183,8741
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2637,4750
+Dados / BI,São Paulo - SP,Sênior,10288,15833
+Dados / BI,Rio de Janeiro - RJ,Sênior,10142,15347
+Dados / BI,São Paulo - SP,Júnior,2617,4794
+Desenvolvimento Backend,São Paulo - SP,Júnior,2729,4412
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2714,4426
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2518,4569
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5192,9461
+Desenvolvimento Backend,São Paulo - SP,Sênior,9684,15911
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5310,9425
+Dados / BI,São Paulo - SP,Sênior,9995,16557
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5130,9498
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5265,9074
+Desenvolvimento Backend,São Paulo - SP,Júnior,2730,4431
+Desenvolvimento Backend,São Paulo - SP,Júnior,2677,4384
+Dados / BI,São Paulo - SP,Sênior,9856,16750
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5253,8996
+Dados / BI,Remoto (Brasil),Júnior,2544,4421
+Dados / BI,Remoto (Brasil),Júnior,2600,4372
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2703,4425
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9933,16521
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5310,8942
+Desenvolvimento Backend,São Paulo - SP,Pleno,5323,9389
+Dados / BI,São Paulo - SP,Júnior,2630,4449
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10160,16386
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2582,4539
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2668,4510
+Desenvolvimento Backend,São Paulo - SP,Júnior,2581,4672
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5407,8879
+Dados / BI,São Paulo - SP,Pleno,5308,8767
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2655,4772
+Dados / BI,São Paulo - SP,Pleno,5330,8981
+Desenvolvimento Backend,São Paulo - SP,Sênior,9702,15703
+Desenvolvimento Backend,São Paulo - SP,Júnior,2570,4535
+Desenvolvimento Backend,São Paulo - SP,Pleno,5302,8942
+Dados / BI,São Paulo - SP,Júnior,2700,4758
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5067,9411
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5270,8590
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5424,9371
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2588,4524
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5024,8952
+Desenvolvimento Backend,São Paulo - SP,Pleno,5328,9482
+Desenvolvimento Backend,São Paulo - SP,Pleno,5014,8779
+Dados / BI,São Paulo - SP,Júnior,2582,4761
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2548,4690
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9505,16709
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9613,15398
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2656,4725
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2535,4618
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10271,16496
+Desenvolvimento Backend,São Paulo - SP,Pleno,5228,9234
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5338,9051
+Desenvolvimento Backend,São Paulo - SP,Pleno,5115,8644
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2642,4747
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5105,9261
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2503,4663
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2526,4494
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5439,8870
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5078,9418
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2593,4517
+Desenvolvimento Backend,São Paulo - SP,Pleno,5399,8959
+Dados / BI,São Paulo - SP,Júnior,2578,4765
+Desenvolvimento Backend,São Paulo - SP,Pleno,5054,9312
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5136,8579
+Dados / BI,São Paulo - SP,Júnior,2530,4794
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2601,4577
+Desenvolvimento Backend,São Paulo - SP,Pleno,5189,8650
+Desenvolvimento Backend,São Paulo - SP,Sênior,9698,15902
+Dados / BI,São Paulo - SP,Júnior,2655,4572
+Desenvolvimento Backend,São Paulo - SP,Júnior,2563,4376
+Desenvolvimento Backend,São Paulo - SP,Júnior,2568,4442
+Dados / BI,São Paulo - SP,Júnior,2658,4678
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2687,4741
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2701,4424
+Desenvolvimento Backend,São Paulo - SP,Pleno,5375,8553
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5244,9306
+Desenvolvimento Backend,São Paulo - SP,Júnior,2580,4668
+Dados / BI,São Paulo - SP,Sênior,9645,15326
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2749,4455
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5004,9158
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2723,4446
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2674,4468
+Desenvolvimento Backend,São Paulo - SP,Júnior,2537,4716
+Dados / BI,Remoto (Brasil),Pleno,5231,9052
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2624,4449
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2681,4490
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10423,16520
+Desenvolvimento Backend,São Paulo - SP,Pleno,5327,8571
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2536,4502
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5498,8991
+Dados / BI,Remoto (Brasil),Júnior,2744,4513
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10195,16415
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10039,15658
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9900,16506
+Dados / BI,São Paulo - SP,Júnior,2510,4616
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5221,9364
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9795,15525
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5238,9247
+Desenvolvimento Backend,São Paulo - SP,Pleno,5340,8716
+Desenvolvimento Backend,São Paulo - SP,Sênior,9515,16229
+Desenvolvimento Backend,São Paulo - SP,Pleno,5027,9050
+Desenvolvimento Backend,São Paulo - SP,Pleno,5000,8601
+Dados / BI,Remoto (Brasil),Júnior,2719,4577
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2522,4685
+Desenvolvimento Backend,São Paulo - SP,Júnior,2649,4790
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5181,8804
+Desenvolvimento Backend,São Paulo - SP,Pleno,5495,9475
+Dados / BI,Rio de Janeiro - RJ,Júnior,2579,4408
+Dados / BI,São Paulo - SP,Júnior,2648,4391
+Desenvolvimento Backend,São Paulo - SP,Júnior,2641,4422
+Dados / BI,São Paulo - SP,Pleno,5321,9022
+Desenvolvimento Backend,São Paulo - SP,Sênior,9947,15496
+Dados / BI,São Paulo - SP,Júnior,2739,4670
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5215,8970
+Desenvolvimento Backend,São Paulo - SP,Júnior,2696,4535
+Dados / BI,São Paulo - SP,Sênior,10305,15796
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5460,9129
+Dados / BI,São Paulo - SP,Sênior,9628,16125
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5265,9021
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2666,4374
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2623,4673
+Dados / BI,São Paulo - SP,Pleno,5345,9073
+Dados / BI,São Paulo - SP,Júnior,2536,4607
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2672,4647
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2739,4323
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2517,4320
+Desenvolvimento Backend,São Paulo - SP,Pleno,5126,8759
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5200,8606
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5094,9389
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2656,4668
+Desenvolvimento Backend,São Paulo - SP,Júnior,2537,4645
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5123,8724
+Desenvolvimento Backend,São Paulo - SP,Júnior,2622,4468
+Desenvolvimento Backend,São Paulo - SP,Pleno,5188,9233
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9975,16153
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2530,4608
+Dados / BI,São Paulo - SP,Júnior,2666,4777
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9863,15585
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2540,4503
+Dados / BI,São Paulo - SP,Júnior,2731,4681
+Dados / BI,Rio de Janeiro - RJ,Júnior,2538,4500
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5439,9355
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5472,8953
+Dados / BI,São Paulo - SP,Pleno,5492,9033
+Dados / BI,São Paulo - SP,Pleno,5259,9344
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5301,9144
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5023,8580
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2527,4575
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5395,9377
+Dados / BI,São Paulo - SP,Júnior,2725,4409
+Desenvolvimento Backend,São Paulo - SP,Sênior,10444,15431
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2691,4357
+Desenvolvimento Backend,São Paulo - SP,Pleno,5015,9495
+Dados / BI,São Paulo - SP,Pleno,5068,9202
+Desenvolvimento Backend,São Paulo - SP,Júnior,2612,4667
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2708,4590
+Desenvolvimento Backend,São Paulo - SP,Pleno,5322,9234
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2501,4504
+Dados / BI,Remoto (Brasil),Sênior,9848,15679
+Desenvolvimento Backend,São Paulo - SP,Pleno,5270,9058
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10012,16021
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10320,15437
+Desenvolvimento Backend,São Paulo - SP,Sênior,10082,15460
+Desenvolvimento Backend,São Paulo - SP,Júnior,2627,4438
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2710,4468
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5034,9443
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2647,4443
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5204,9183
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2620,4799
+Desenvolvimento Backend,São Paulo - SP,Júnior,2586,4535
+Dados / BI,Rio de Janeiro - RJ,Pleno,5071,8759
+Desenvolvimento Backend,São Paulo - SP,Sênior,10179,15427
+Dados / BI,Remoto (Brasil),Sênior,10426,16549
+Dados / BI,Rio de Janeiro - RJ,Júnior,2518,4533
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2641,4565
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2509,4574
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5155,9350
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2514,4333
+Dados / BI,Rio de Janeiro - RJ,Pleno,5440,8938
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5026,8946
+Desenvolvimento Backend,São Paulo - SP,Pleno,5218,9112
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10425,16053
+Desenvolvimento Backend,São Paulo - SP,Sênior,9743,15775
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5385,9459
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2705,4327
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2514,4384
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2654,4655
+Dados / BI,Rio de Janeiro - RJ,Júnior,2601,4565
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2740,4598
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10419,15751
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2641,4469
+Dados / BI,São Paulo - SP,Sênior,9826,16729
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2605,4681
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2733,4390
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2641,4427
+Dados / BI,Rio de Janeiro - RJ,Sênior,9536,15781
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5058,8571
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2598,4473
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2656,4516
+Desenvolvimento Backend,São Paulo - SP,Pleno,5022,8779
+Desenvolvimento Backend,São Paulo - SP,Pleno,5026,9226
+Dados / BI,Remoto (Brasil),Júnior,2506,4785
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10429,15837
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5174,9293
+Dados / BI,São Paulo - SP,Pleno,5373,9500
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2599,4689
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10047,16249
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9766,15632
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9743,15570
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5140,8637
+Desenvolvimento Backend,São Paulo - SP,Júnior,2646,4522
+Dados / BI,Remoto (Brasil),Júnior,2564,4720
+Dados / BI,Remoto (Brasil),Júnior,2578,4611
+Desenvolvimento Backend,São Paulo - SP,Sênior,9954,16247
+Dados / BI,Rio de Janeiro - RJ,Júnior,2591,4565
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5296,8631
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2516,4545
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2722,4573
+Desenvolvimento Backend,São Paulo - SP,Júnior,2658,4655
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2675,4579
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2683,4436
+Dados / BI,Remoto (Brasil),Júnior,2565,4328
+Dados / BI,São Paulo - SP,Júnior,2683,4342
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2613,4377
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2595,4744
+Desenvolvimento Backend,São Paulo - SP,Pleno,5448,8839
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9843,16135
+Desenvolvimento Backend,São Paulo - SP,Sênior,9801,16573
+Dados / BI,São Paulo - SP,Júnior,2538,4786
+Dados / BI,Rio de Janeiro - RJ,Júnior,2580,4581
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10229,16004
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5336,9293
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5489,8629
+Dados / BI,São Paulo - SP,Pleno,5294,9195
+Dados / BI,São Paulo - SP,Pleno,5433,9449
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5268,9082
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9800,15799
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9736,16233
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5227,9300
+Desenvolvimento Backend,São Paulo - SP,Júnior,2643,4578
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5117,9009
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9628,16401
+Dados / BI,Remoto (Brasil),Pleno,5340,8691
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2530,4361
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2626,4643
+Desenvolvimento Backend,São Paulo - SP,Júnior,2616,4327
+Dados / BI,São Paulo - SP,Sênior,10228,16262
+Dados / BI,Remoto (Brasil),Júnior,2610,4332
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2721,4591
+Dados / BI,Rio de Janeiro - RJ,Júnior,2602,4676
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2729,4742
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5369,8596
+Dados / BI,Rio de Janeiro - RJ,Sênior,10432,16137
+Dados / BI,Rio de Janeiro - RJ,Pleno,5387,9038
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5301,9488
+Dados / BI,Rio de Janeiro - RJ,Júnior,2501,4623
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5164,8999
+Desenvolvimento Backend,São Paulo - SP,Júnior,2697,4369
+Dados / BI,São Paulo - SP,Júnior,2632,4779
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9792,15961
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9542,16967
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5220,9081
+Desenvolvimento Backend,São Paulo - SP,Júnior,2588,4465
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5114,9456
+Desenvolvimento Backend,São Paulo - SP,Júnior,2655,4705
+Dados / BI,São Paulo - SP,Júnior,2524,4425
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2653,4782
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5099,8556
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2572,4612
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2616,4471
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9622,16210
+Dados / BI,São Paulo - SP,Júnior,2535,4462
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2520,4701
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2629,4491
+Dados / BI,São Paulo - SP,Pleno,5397,8625
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9943,15505
+Dados / BI,Remoto (Brasil),Júnior,2715,4605
+Desenvolvimento Backend,São Paulo - SP,Júnior,2662,4641
+Dados / BI,São Paulo - SP,Pleno,5482,8775
+Dados / BI,São Paulo - SP,Júnior,2708,4415
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2724,4365
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5001,8994
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2545,4339
+Dados / BI,São Paulo - SP,Pleno,5298,8790
+Desenvolvimento Backend,São Paulo - SP,Pleno,5092,9448
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2624,4570
+Desenvolvimento Backend,São Paulo - SP,Júnior,2623,4471
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10273,16864
+Desenvolvimento Backend,São Paulo - SP,Júnior,2669,4537
+Dados / BI,Rio de Janeiro - RJ,Júnior,2529,4497
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9995,16948
+Desenvolvimento Backend,São Paulo - SP,Pleno,5014,8847
+Dados / BI,São Paulo - SP,Sênior,9918,15424
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5210,8950
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2513,4457
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5023,8865
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10048,15722
+Desenvolvimento Backend,São Paulo - SP,Sênior,10125,15975
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9521,16943
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2590,4712
+Dados / BI,Remoto (Brasil),Júnior,2553,4505
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9905,16770
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9839,16146
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9536,15341
+Desenvolvimento Backend,São Paulo - SP,Pleno,5405,9046
+Dados / BI,São Paulo - SP,Júnior,2661,4715
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5416,9352
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10397,15852
+Dados / BI,São Paulo - SP,Pleno,5360,9330
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5277,9169
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5200,8748
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9935,16349
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5051,8820
+Desenvolvimento Backend,São Paulo - SP,Pleno,5219,8645
+Dados / BI,São Paulo - SP,Júnior,2572,4784
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5254,9295
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5055,9013
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5118,9007
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5170,8697
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2543,4426
+Dados / BI,São Paulo - SP,Júnior,2536,4526
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5290,9328
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2579,4699
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2644,4626
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5386,9125
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2666,4440
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5439,9307
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2679,4359
+Desenvolvimento Backend,São Paulo - SP,Júnior,2691,4382
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9539,16168
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5071,9316
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2530,4542
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9777,16370
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5084,8694
+Dados / BI,São Paulo - SP,Sênior,10231,16060
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5479,8888
+Dados / BI,Remoto (Brasil),Sênior,9638,15636
+Desenvolvimento Backend,São Paulo - SP,Júnior,2606,4411
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9819,16736
+Desenvolvimento Backend,São Paulo - SP,Pleno,5169,8646
+Dados / BI,São Paulo - SP,Júnior,2589,4645
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5475,8747
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10098,16793
+Dados / BI,Rio de Janeiro - RJ,Pleno,5130,9124
+Dados / BI,São Paulo - SP,Júnior,2539,4372
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2526,4384
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9838,16478
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2706,4697
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5086,8552
+Desenvolvimento Backend,São Paulo - SP,Júnior,2705,4634
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9831,15459
+Dados / BI,São Paulo - SP,Pleno,5225,8985
+Dados / BI,São Paulo - SP,Pleno,5060,8796
+Desenvolvimento Backend,São Paulo - SP,Pleno,5242,8913
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5452,9169
+Dados / BI,Remoto (Brasil),Sênior,10353,15868
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5250,9261
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5222,9217
+Dados / BI,Rio de Janeiro - RJ,Júnior,2619,4714
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2643,4768
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5091,9315
+Dados / BI,São Paulo - SP,Júnior,2549,4322
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10437,15819
+Dados / BI,São Paulo - SP,Júnior,2665,4460
+Desenvolvimento Backend,São Paulo - SP,Sênior,10221,15818
+Dados / BI,São Paulo - SP,Pleno,5015,9433
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5232,9052
+Desenvolvimento Backend,São Paulo - SP,Pleno,5279,9376
+Dados / BI,São Paulo - SP,Pleno,5365,8706
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9584,16159
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5363,8613
+Dados / BI,Rio de Janeiro - RJ,Júnior,2718,4419
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2672,4754
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2650,4689
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9912,16152
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2711,4709
+Desenvolvimento Backend,São Paulo - SP,Júnior,2613,4342
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5088,9200
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2570,4607
+Dados / BI,São Paulo - SP,Pleno,5356,8638
+Dados / BI,São Paulo - SP,Júnior,2523,4413
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5494,8570
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2595,4555
+Dados / BI,Remoto (Brasil),Júnior,2714,4668
+Desenvolvimento Backend,São Paulo - SP,Júnior,2693,4697
+Desenvolvimento Backend,São Paulo - SP,Pleno,5091,8835
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2548,4459
+Desenvolvimento Backend,São Paulo - SP,Júnior,2678,4545
+Dados / BI,São Paulo - SP,Pleno,5178,9340
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5425,8724
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5275,9132
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2707,4669
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5257,9114
+Desenvolvimento Backend,São Paulo - SP,Júnior,2697,4427
+Dados / BI,São Paulo - SP,Júnior,2529,4584
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2650,4485
+Dados / BI,Rio de Janeiro - RJ,Pleno,5017,8880
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9508,15625
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5051,8741
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5095,9320
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5294,9261
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9758,16781
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5153,8591
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5461,9499
+Dados / BI,São Paulo - SP,Sênior,10091,16120
+Dados / BI,Rio de Janeiro - RJ,Júnior,2576,4773
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5487,9131
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2745,4347
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10320,16008
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2537,4422
+Desenvolvimento Backend,São Paulo - SP,Júnior,2560,4759
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2675,4604
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5176,8652
+Dados / BI,Remoto (Brasil),Pleno,5467,9033
+Desenvolvimento Backend,São Paulo - SP,Pleno,5390,9488
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5068,8959
+Dados / BI,São Paulo - SP,Sênior,10247,16169
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2671,4699
+Desenvolvimento Backend,São Paulo - SP,Sênior,9682,16872
+Dados / BI,São Paulo - SP,Pleno,5000,9175
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2558,4390
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2523,4493
+Dados / BI,São Paulo - SP,Júnior,2579,4518
+Desenvolvimento Backend,São Paulo - SP,Júnior,2744,4535
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5054,9026
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5335,9433
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2532,4614
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2667,4663
+Dados / BI,Rio de Janeiro - RJ,Júnior,2566,4699
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9961,16328
+Desenvolvimento Backend,São Paulo - SP,Júnior,2636,4506
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5388,8942
+Dados / BI,São Paulo - SP,Júnior,2742,4798
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5314,9295
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5020,8674
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2653,4671
+Desenvolvimento Backend,São Paulo - SP,Pleno,5392,9388
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2606,4328
+Dados / BI,São Paulo - SP,Júnior,2528,4502
+Dados / BI,São Paulo - SP,Pleno,5089,8636
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2626,4540
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5316,8799
+Dados / BI,São Paulo - SP,Sênior,10340,16372
+Dados / BI,Rio de Janeiro - RJ,Júnior,2509,4395
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9603,16082
+Desenvolvimento Backend,São Paulo - SP,Júnior,2663,4703
+Dados / BI,Rio de Janeiro - RJ,Júnior,2691,4451
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2733,4541
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5155,9180
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2704,4345
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5223,8831
+Dados / BI,Remoto (Brasil),Júnior,2671,4343
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5139,8555
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5066,8831
+Desenvolvimento Backend,São Paulo - SP,Sênior,9825,15498
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2516,4633
+Dados / BI,São Paulo - SP,Sênior,10102,16161
+Desenvolvimento Backend,São Paulo - SP,Pleno,5476,9121
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2613,4397
+Dados / BI,São Paulo - SP,Júnior,2678,4407
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2718,4612
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5176,8635
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2574,4704
+Desenvolvimento Backend,São Paulo - SP,Júnior,2659,4619
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5391,8573
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5120,8934
+Desenvolvimento Backend,São Paulo - SP,Pleno,5435,8676
+Desenvolvimento Backend,São Paulo - SP,Sênior,10084,15892
+Dados / BI,São Paulo - SP,Sênior,10252,16121
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2730,4626
+Dados / BI,Rio de Janeiro - RJ,Pleno,5340,9455
+Dados / BI,São Paulo - SP,Pleno,5257,9098
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5387,9025
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2723,4410
+Dados / BI,Rio de Janeiro - RJ,Sênior,10281,16250
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2648,4654
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2507,4636
+Dados / BI,São Paulo - SP,Pleno,5041,9163
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2656,4447
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5487,8929
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9898,16430
+Dados / BI,São Paulo - SP,Sênior,9968,16055
+Desenvolvimento Backend,São Paulo - SP,Pleno,5364,9493
+Dados / BI,São Paulo - SP,Júnior,2507,4425
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5227,8797
+Dados / BI,São Paulo - SP,Pleno,5056,9372
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9663,15801
+Dados / BI,Remoto (Brasil),Júnior,2508,4669
+Desenvolvimento Backend,São Paulo - SP,Sênior,10382,16089
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2683,4595
+Desenvolvimento Backend,São Paulo - SP,Pleno,5273,9281
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5149,9381
+Dados / BI,São Paulo - SP,Sênior,9872,16118
+Desenvolvimento Backend,São Paulo - SP,Pleno,5219,9356
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2711,4616
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2605,4656
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9715,15841
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2730,4683
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2575,4672
+Dados / BI,Remoto (Brasil),Pleno,5290,8831
+Desenvolvimento Backend,São Paulo - SP,Júnior,2573,4333
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2574,4477
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5243,9280
+Desenvolvimento Backend,São Paulo - SP,Pleno,5355,8681
+Desenvolvimento Backend,São Paulo - SP,Pleno,5326,8783
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2649,4326
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5264,8965
+Dados / BI,São Paulo - SP,Sênior,10159,15619
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5193,9436
+Desenvolvimento Frontend,São Paulo - SP,Sênior,9993,15659
+Desenvolvimento Backend,São Paulo - SP,Pleno,5033,8900
+Dados / BI,São Paulo - SP,Júnior,2655,4718
+Dados / BI,Rio de Janeiro - RJ,Júnior,2627,4555
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2691,4753
+Desenvolvimento Frontend,São Paulo - SP,Sênior,10259,15714
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5487,8887
+Dados / BI,São Paulo - SP,Sênior,10366,16818
+Dados / BI,São Paulo - SP,Sênior,9957,16460
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9687,16712
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2683,4553
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2571,4366
+Dados / BI,São Paulo - SP,Sênior,10427,15571
+Dados / BI,São Paulo - SP,Júnior,2649,4709
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5400,8602
+Desenvolvimento Backend,São Paulo - SP,Júnior,2529,4546
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5110,9162
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5440,9476
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9699,16506
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5000,8807
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5090,8886
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9806,15841
+Desenvolvimento Backend,São Paulo - SP,Júnior,2643,4577
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9686,16298
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5253,8717
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5048,9497
+Desenvolvimento Backend,São Paulo - SP,Pleno,5421,8737
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2578,4576
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5350,8857
+Desenvolvimento Backend,São Paulo - SP,Pleno,5165,8710
+Dados / BI,São Paulo - SP,Júnior,2540,4632
+Dados / BI,São Paulo - SP,Pleno,5242,9219
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5117,8819
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2537,4476
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5230,8865
+Desenvolvimento Backend,São Paulo - SP,Pleno,5390,8963
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5071,9017
+Dados / BI,São Paulo - SP,Pleno,5106,9227
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5164,8987
+Desenvolvimento Backend,São Paulo - SP,Pleno,5102,9366
+Desenvolvimento Backend,São Paulo - SP,Sênior,9609,15452
+Desenvolvimento Frontend,Remoto (Brasil),Pleno,5369,9157
+Dados / BI,Remoto (Brasil),Júnior,2668,4519
+Dados / BI,São Paulo - SP,Pleno,5143,9171
+Dados / BI,São Paulo - SP,Júnior,2587,4461
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2620,4388
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,10250,16147
+Dados / BI,São Paulo - SP,Pleno,5293,8754
+Dados / BI,Rio de Janeiro - RJ,Júnior,2639,4710
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10206,15344
+Dados / BI,Remoto (Brasil),Sênior,10216,16756
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2697,4548
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2558,4555
+Dados / BI,Remoto (Brasil),Sênior,9765,15822
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2664,4530
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10351,16382
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5289,8997
+Dados / BI,São Paulo - SP,Sênior,9834,16918
+Desenvolvimento Backend,São Paulo - SP,Júnior,2517,4696
+Desenvolvimento Backend,São Paulo - SP,Pleno,5057,9094
+Dados / BI,Remoto (Brasil),Sênior,10087,16259
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5392,9250
+Desenvolvimento Backend,São Paulo - SP,Pleno,5450,9306
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2647,4493
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5485,8992
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2659,4744
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2538,4452
+Dados / BI,São Paulo - SP,Sênior,10045,16237
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10447,16026
+Desenvolvimento Backend,São Paulo - SP,Pleno,5096,9341
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2636,4628
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2589,4355
+Desenvolvimento Backend,São Paulo - SP,Júnior,2553,4423
+Desenvolvimento Backend,São Paulo - SP,Júnior,2739,4790
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2730,4545
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2722,4700
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2612,4524
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5063,8645
+Desenvolvimento Backend,São Paulo - SP,Pleno,5264,8674
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,10258,16538
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5107,8642
+Desenvolvimento Backend,São Paulo - SP,Júnior,2528,4553
+Desenvolvimento Backend,São Paulo - SP,Pleno,5492,9428
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2516,4542
+Dados / BI,Remoto (Brasil),Júnior,2679,4363
+Dados / BI,Remoto (Brasil),Sênior,9516,15862
+Desenvolvimento Backend,São Paulo - SP,Júnior,2716,4447
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5071,9261
+Dados / BI,São Paulo - SP,Pleno,5107,9437
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5421,8711
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5077,9309
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2736,4376
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2603,4640
+Desenvolvimento Backend,São Paulo - SP,Pleno,5014,9352
+Desenvolvimento Backend,São Paulo - SP,Pleno,5376,9442
+Dados / BI,São Paulo - SP,Pleno,5390,9162
+Desenvolvimento Backend,São Paulo - SP,Júnior,2589,4779
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2747,4563
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9950,15575
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2621,4560
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2638,4507
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2626,4703
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2631,4386
+Dados / BI,São Paulo - SP,Pleno,5380,8647
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5127,8781
+Dados / BI,São Paulo - SP,Júnior,2681,4556
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5452,8823
+Dados / BI,Remoto (Brasil),Pleno,5338,8698
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2731,4729
+Desenvolvimento Backend,São Paulo - SP,Júnior,2546,4327
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9665,16112
+Dados / BI,Remoto (Brasil),Pleno,5176,8742
+Desenvolvimento Frontend,São Paulo - SP,Pleno,5231,8769
+Dados / BI,São Paulo - SP,Pleno,5381,8836
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2728,4415
+Dados / BI,Rio de Janeiro - RJ,Pleno,5281,9017
+Desenvolvimento Backend,São Paulo - SP,Júnior,2632,4454
+Desenvolvimento Backend,São Paulo - SP,Pleno,5493,9106
+Dados / BI,São Paulo - SP,Pleno,5056,8673
+Desenvolvimento Frontend,Remoto (Brasil),Sênior,9814,16226
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2721,4578
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,10023,15699
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9703,16802
+Dados / BI,Remoto (Brasil),Sênior,10076,16386
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2558,4675
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5051,9246
+Dados / BI,São Paulo - SP,Pleno,5431,9319
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9934,15714
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9803,16098
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9979,15959
+Dados / BI,São Paulo - SP,Júnior,2564,4682
+Suporte / Infraestrutura,São Paulo - SP,Sênior,10127,16516
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5073,9042
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9748,16101
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5099,8804
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9782,15587
+Desenvolvimento Backend,São Paulo - SP,Pleno,5483,9238
+Desenvolvimento Backend,São Paulo - SP,Pleno,5389,8885
+Dados / BI,São Paulo - SP,Júnior,2526,4715
+Desenvolvimento Backend,Rio de Janeiro - RJ,Pleno,5152,9391
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5036,9451
+Desenvolvimento Frontend,Remoto (Brasil),Júnior,2569,4340
+Dados / BI,Remoto (Brasil),Júnior,2619,4538
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5406,9048
+Suporte / Infraestrutura,Remoto (Brasil),Júnior,2687,4628
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2717,4660
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5029,9203
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,10250,15864
+Desenvolvimento Backend,São Paulo - SP,Júnior,2670,4748
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2682,4732
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2611,4660
+Dados / BI,Rio de Janeiro - RJ,Sênior,9999,16448
+Dados / BI,São Paulo - SP,Pleno,5445,9497
+Dados / BI,São Paulo - SP,Júnior,2714,4726
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2747,4711
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5309,8981
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2665,4723
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Sênior,9538,16116
+Desenvolvimento Backend,São Paulo - SP,Sênior,10185,15352
+Desenvolvimento Backend,São Paulo - SP,Pleno,5168,8651
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2616,4754
+Desenvolvimento Backend,Remoto (Brasil),Pleno,5180,8804
+Desenvolvimento Backend,Remoto (Brasil),Júnior,2678,4645
+Dados / BI,São Paulo - SP,Júnior,2697,4762
+Suporte / Infraestrutura,Remoto (Brasil),Pleno,5178,9349
+Dados / BI,Rio de Janeiro - RJ,Sênior,9841,16020
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9733,15948
+Desenvolvimento Backend,São Paulo - SP,Pleno,5327,8965
+Desenvolvimento Backend,Rio de Janeiro - RJ,Júnior,2597,4423
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Júnior,2706,4544
+Desenvolvimento Backend,Rio de Janeiro - RJ,Sênior,9830,15332
+Dados / BI,Rio de Janeiro - RJ,Sênior,10217,16615
+Dados / BI,São Paulo - SP,Pleno,5203,9183
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2653,4788
+Dados / BI,São Paulo - SP,Júnior,2683,4494
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9606,16807
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2645,4362
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9751,16422
+Dados / BI,São Paulo - SP,Júnior,2557,4746
+Suporte / Infraestrutura,São Paulo - SP,Sênior,9950,16626
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2746,4330
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5284,9114
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Júnior,2632,4617
+Desenvolvimento Backend,Remoto (Brasil),Sênior,9896,16829
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2705,4454
+Dados / BI,São Paulo - SP,Sênior,9740,15955
+Suporte / Infraestrutura,Rio de Janeiro - RJ,Pleno,5164,9430
+Desenvolvimento Backend,Remoto (Brasil),Sênior,10092,15563
+Dados / BI,São Paulo - SP,Sênior,10225,16274
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,9733,16774
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Sênior,10340,15758
+Desenvolvimento Frontend,São Paulo - SP,Júnior,2658,4544
+Dados / BI,Rio de Janeiro - RJ,Sênior,9675,15345
+Suporte / Infraestrutura,São Paulo - SP,Júnior,2588,4564
+Desenvolvimento Backend,São Paulo - SP,Pleno,5033,9286
+Dados / BI,São Paulo - SP,Sênior,9528,16761
+Desenvolvimento Backend,São Paulo - SP,Pleno,5068,8955
+Desenvolvimento Frontend,Rio de Janeiro - RJ,Pleno,5345,8861
+Suporte / Infraestrutura,Remoto (Brasil),Sênior,9916,15595
+Suporte / Infraestrutura,São Paulo - SP,Pleno,5441,8556
