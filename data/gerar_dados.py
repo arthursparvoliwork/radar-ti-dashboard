@@ -28,6 +28,19 @@ FAIXA_SALARIAL = {
     "Sênior": (9500, 17000),
 }
 
+TECNOLOGIAS_POR_AREA = {
+    "Desenvolvimento Backend": ["Python", "Java", "Node.js", "PostgreSQL", "Docker", "AWS"],
+    "Desenvolvimento Frontend": ["JavaScript", "React", "TypeScript", "CSS"],
+    "Dados / BI": ["SQL", "Python", "Power BI", "Excel Avançado"],
+    "Suporte / Infraestrutura": ["Active Directory", "Windows Server", "ITIL", "Redes"],
+}
+
+MODALIDADES = [
+    ("Remoto", 46),
+    ("Híbrido", 36),
+    ("Presencial", 18),
+]
+
 
 def sorteio_ponderado(tabela):
     valores = [item[0] for item in tabela]
@@ -43,12 +56,21 @@ def gerar_vaga():
     salario_min = random.randint(faixa_min, int(faixa_min * 1.1))
     salario_max = random.randint(int(faixa_max * 0.9), faixa_max)
 
+    cargo = sorteio_ponderado(AREAS)
+    tecnologias_da_area = TECNOLOGIAS_POR_AREA[cargo]
+    qtd_tecnologias = random.randint(2, 4)
+    tecnologias_sorteadas = random.sample(tecnologias_da_area, k=qtd_tecnologias)
+
+    modalidade = sorteio_ponderado(MODALIDADES)
+
     vaga = {
-        "cargo": sorteio_ponderado(AREAS),
+        "cargo": cargo,
         "cidade": sorteio_ponderado(CIDADES),
         "senioridade": senioridade,
         "salario_min": salario_min,
         "salario_max": salario_max,
+        "modalidade": modalidade,
+        "tecnologias": tecnologias_sorteadas,
     }
     return vaga
 
@@ -62,9 +84,23 @@ print("Total de vagas geradas:", len(lista_de_vagas))
 print("Exemplo da primeira vaga:", lista_de_vagas[0])
 print("Exemplo da última vaga:", lista_de_vagas[-1])
 
+for i, vaga in enumerate(lista_de_vagas, start=1):
+    vaga["id"] = i
+
+campos_vagas = ["id", "cargo", "cidade", "senioridade", "salario_min", "salario_max", "modalidade"]
+
 with open("vagas_ti.csv", "w", newline="", encoding="utf-8") as arquivo:
-    escritor = csv.DictWriter(arquivo, fieldnames=lista_de_vagas[0].keys())
+    escritor = csv.DictWriter(arquivo, fieldnames=campos_vagas, extrasaction="ignore")
     escritor.writeheader()
     escritor.writerows(lista_de_vagas)
 
-print("Arquivo CSV salvo com sucesso!")
+
+with open("vaga_tecnologias.csv", "w", newline="", encoding="utf-8") as arquivo:
+    escritor = csv.writer(arquivo)
+    escritor.writerow(["vaga_id", "tecnologia"])
+
+    for vaga in lista_de_vagas:
+        for tecnologia in vaga["tecnologias"]:
+            escritor.writerow([vaga["id"], tecnologia])
+
+print("Arquivos CSV salvos com sucesso!")

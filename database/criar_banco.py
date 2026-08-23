@@ -1,19 +1,29 @@
 import sqlite3
-import csv
 
 conexao = sqlite3.connect("vagas_ti.db")
 cursor = conexao.cursor()
 
-with open("../data/vagas_ti.csv", encoding="utf-8") as arquivo:
-    leitor = csv.DictReader(arquivo)
+cursor.execute("""
+    CREATE TABLE IF NOT EXISTS vagas (
+        id INTEGER PRIMARY KEY,
+        cargo TEXT,
+        cidade TEXT,
+        senioridade TEXT,
+        salario_min INTEGER,
+        salario_max INTEGER,
+        modalidade TEXT
+    )
+""")
 
-    for linha in leitor:
-        cursor.execute(
-            "INSERT INTO vagas (cargo, cidade, senioridade, salario_min, salario_max) VALUES (?, ?, ?, ?, ?)",
-            (linha["cargo"], linha["cidade"], linha["senioridade"], linha["salario_min"], linha["salario_max"])
-        )
+cursor.execute("""
+    CREATE TABLE IF NOT EXISTS vaga_tecnologia (
+        vaga_id INTEGER,
+        tecnologia TEXT,
+        FOREIGN KEY (vaga_id) REFERENCES vagas(id)
+    )
+""")
 
 conexao.commit()
 conexao.close()
 
-print("Dados carregados no banco com sucesso!")
+print("Banco de dados e tabelas criados com sucesso!")

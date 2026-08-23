@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Radar TI - Dashboard</title>
+    <link rel="stylesheet" href="estilo.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=Orbitron:wght@700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/animejs@4.0.0/lib/anime.iife.min.js"></script>
+</head>
+<body>
+    
+    <canvas id="fundoParticulas"></canvas>
+    <div class="decoracao-codigo">&lt;/&gt;</div>
+    <div class="icones-fundo" id="icconesFundo"></div>
+    <div class="linha-lateral linha-esquerda"></div>
+<div class="linha-lateral linha-direita"></div>
+    
+
+    <div class="container">
+        <header>
+            <h1>Radar TI</h1>
+              
+            <br></br>
+            <p>Análise do mercado de vagas de tecnologia no Brasil</p>
+            <br></br>
+        </header>
+
+        <div class="barra-filtros reveal">
+            <div class="filtro-grupo">
+                <label for="filtroSenioridade">Senioridade</label>
+                <select id="filtroSenioridade">
+                    <option value="todos">Todas</option>
+                    <option value="Júnior">Júnior</option>
+                    <option value="Pleno">Pleno</option>
+                    <option value="Sênior">Sênior</option>
+                </select>
+                
+            </div>
+            <div class="filtro-grupo">
+                <label for="filtroModalidade">Modalidade</label>
+                <select id="filtroModalidade">
+                    <option value="todos">Todas</option>
+                    <option value="Remoto">Remoto</option>
+                    <option value="Híbrido">Híbrido</option>
+                    <option value="Presencial">Presencial</option>
+                </select>
+            </div>
+        </div>
+
+        <main>
+            <div class="card card-verde">
+                <div class="card-icone">💼</div>
+                <h2><span class="contador" id="contadorTotalVagas" data-valor-final="3000">0</span></h2>
+                <p>Vagas analisadas</p>
+            </div>
+
+            <div class="card card-azul">
+                <div class="card-icone">💰</div>
+                <h2>R$ <span class="contador" id="contadorSalarioMedio" data-valor-final="6949">0</span></h2>
+                <p>Salário médio geral</p>
+            </div>
+
+            <div class="card card-roxo">
+                <div class="card-icone">🌐</div>
+                <h2><span class="contador" id="contadorPercentualRemoto" data-valor-final="46.9" data-decimal="1">0</span>%</h2>
+                <p>Vagas remotas</p>
+            </div>
+
+            <div class="card card-laranja">
+                <div class="card-icone">🏢</div>
+                <h2><span class="contador" id="contadorEmpresas" data-valor-final="15">0</span></h2>
+                <p>Empresas no dataset</p>
+            </div>
+        </main>
+
+        <section class="secao-grafico reveal">
+            <h2>Salário por Senioridade</h2>
+            <br></br>
+            <div class="grafico-container">
+                <canvas id="graficoSalarios"></canvas>
+            </div>
+        </section>
+
+        <section class="secao-grafico reveal">
+            <h2>Top Tecnologias</h2>
+            <br></br>   
+            <div id="listaTecnologias" class="lista-ranking"></div>
+        </section>
+
+        <section class="secao-grafico reveal">
+            <h2>Vagas por Cidade</h2>
+            <br></br>
+            <div class="grafico-container">
+                <canvas id="graficoCidades"></canvas>
+            </div>
+        </section>
+
+        <section class="secao-grafico reveal">
+            <h2>Modalidade de Trabalho</h2>
+            <br></br>
+            <div class="grafico-container">
+                <canvas id="graficoModalidade"></canvas>
+            </div>
+        </section>
+
+        <footer class="rodape">
+            <p class="rodape-texto">Desenvolvido por</p>
+            <h2 class="rodape-nome">Arthur Sparvoli</h2>
+
+            <div class="rodape-links">
+                <a href="https://www.linkedin.com/in/arthur-sparvoli-18a26828b/" target="_blank" class="botao-social botao-linkedin">
+                    <i class="fa-brands fa-linkedin"></i>
+                    <span>LinkedIn</span>
+                </a>
+                <a href="https://github.com/arthursparvoliwork" target="_blank" class="botao-social botao-github">
+                    <i class="fa-brands fa-github"></i>
+                    <span>GitHub</span>
+                </a>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
