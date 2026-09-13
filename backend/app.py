@@ -75,7 +75,17 @@ def api_dados():
             "vagas_por_cidade": vagas_por_cidade,
             "modalidade_trabalho": modalidade_trabalho,
             "vagas_detalhadas": vagas_detalhadas
+
+            
         })
+        @app.route("/debug")
+def debug():
+    import os
+    files = []
+    for root, dirs, fs in os.walk("/app"):
+        for f in fs:
+            files.append(os.path.join(root, f))
+    return jsonify({"files": files, "db_path": DB_PATH})
     except Exception as e:
         return jsonify({"erro": str(e)}), 500
 
