@@ -138,7 +138,7 @@ elementosReveal.forEach((elemento) => {
 
 
 async function carregarDashboard() {
-    const resposta = await fetch("dados.json");
+   const resposta = await fetch("https://radar-ti-dashboard-production.up.railway.app/api/dados");
     dadosGlobais = await resposta.json();
 
     refGraficoSalarios = criarGraficoBarras("graficoSalarios", dadosGlobais.salario_por_senioridade, "Salário médio mínimo (R$)", "#45C2B5");
